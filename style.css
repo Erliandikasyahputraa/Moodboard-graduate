@@ -840,3 +840,24 @@ body {
     color: var(--text-muted);
     line-height: 1.5;
 }
+
+/* Media Query untuk Optimasi Mobile */
+@media(max-width: 576px) {
+    .collection-theme {
+        font-size: 2.2rem;
+        margin-bottom: 16px;
+    }
+    .collection-summary {
+        font-size: 1rem;
+        margin-bottom: 16px;
+    }
+    .app-container {
+        padding: 24px 16px 60px 16px;
+    }
+    .brand {
+        margin-bottom: 12px;
+    }
+    .controls-bar {
+        padding: 12px 0;
+    }
+}

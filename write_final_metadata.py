@@ -90,6 +90,68 @@ def map_new_fields(title, desc, content_labels, technique_labels, index):
 
     return framing, pose_style, location
 
+def correct_labels_based_on_filename(filename, detail, index):
+    fn = filename.lower()
+    title = detail.get("title", "")
+    desc = detail.get("description", "")
+    
+    # 1. Subject (content_labels)
+    if "couple" in fn or "pasangan" in fn or "pacar" in fn:
+        content_labels = ["Pasangan"]
+    elif "solo" in fn or "pasfoto" in fn or "sendiri" in fn:
+        content_labels = ["Solo"]
+    elif "keluarga" in fn or "family" in fn or "ortu" in fn or "orang-tua" in fn or "ibu" in fn or "ayah" in fn:
+        content_labels = ["Keluarga"]
+    elif "teman" in fn or "friends" in fn or "grup" in fn or "group" in fn or "bersama" in fn or "kawan" in fn or "sahabat" in fn:
+        content_labels = ["Teman"]
+    elif "detail" in fn or "objek" in fn or "object" in fn or "bunga" in fn or "mawar" in fn or "sepatu" in fn or "undangan" in fn or "medali" in fn or "toga" in fn or "ijazah" in fn:
+        content_labels = ["Objek"]
+    else:
+        content_labels = detail.get("content_labels", ["Solo"])
+
+    # 2. Technique / Vibe (technique_labels)
+    if "sunset" in fn or "golden" in fn or "sore" in fn:
+        technique_labels = ["Sunset"]
+    elif "blur" in fn or "motion" in fn or "slow" in fn:
+        technique_labels = ["Blur"]
+    elif "dark" in fn or "moody" in fn or "malam" in fn or "night" in fn or "lubang" in fn:
+        technique_labels = ["Dark"]
+    elif "flash" in fn:
+        technique_labels = ["Flash"]
+    elif "film" in fn or "analog" in fn or "retro" in fn or "vintage" in fn:
+        technique_labels = ["Film"]
+    else:
+        technique_labels = detail.get("technique_labels", ["Film"])
+
+    # 3. Location (Outdoor, Indoor, Urban)
+    if "studio" in fn or "indoor" in fn or "pasfoto" in fn or "tidur" in fn or "perpustakaan" in fn or "kelas" in fn or "kamar" in fn:
+        location = "Indoor"
+    elif "jalan" in fn or "street" in fn or "kafe" in fn or "cafe" in fn or "stasiun" in fn or "peron" in fn or "kereta" in fn or "kota" in fn or "lalu-lintas" in fn:
+        location = "Urban"
+    elif "sunset" in fn or "golden" in fn or "taman" in fn or "kampus" in fn or "rektorat" in fn or "lapangan" in fn or "danau" in fn or "outdoor" in fn:
+        location = "Outdoor"
+    else:
+        # Fallback to general mapping
+        _, _, location = map_new_fields(title, desc, content_labels, technique_labels, index)
+
+    # 4. Framing
+    if "detail" in fn or "objek" in fn or "object" in fn or "bunga" in fn or "mawar" in fn or "sepatu" in fn or "ijazah" in fn or "close-up" in fn or "closeup" in fn or "wajah" in fn:
+        framing = "Close-Up"
+    elif "longshot" in fn or "wide" in fn or "seluruh" in fn or "gedung" in fn or "pemandangan" in fn:
+        framing = "Wide Shot"
+    else:
+        framing = "Medium Shot"
+
+    # 5. Pose Style
+    if "candid" in fn or "natural" in fn or "tertawa" in fn or "jalan" in fn or "berjalan" in fn or "tidur" in fn or "revisi" in fn or "meme" in fn or "crying" in fn:
+        pose_style = "Candid"
+    elif "formal" in fn or "pose" in fn or "pasfoto" in fn or "rapi" in fn or "studio" in fn:
+        pose_style = "Formal"
+    else:
+        pose_style = "Candid" if index % 2 == 0 else "Formal"
+
+    return content_labels, technique_labels, location, framing, pose_style
+
 def main():
     if not os.path.exists(MAPPING_FILE):
         print(f"[Error] {MAPPING_FILE} tidak ditemukan. Silakan jalankan create_contact_sheets.py terlebih dahulu.")
@@ -851,24 +913,24 @@ def main():
         img_detail["id"] = v["id"]
         img_detail["filename"] = v["filename"]
         
-        # Generate photography details
+        # Correct and align labels based on the descriptive filename
+        content_labels, technique_labels, location, framing, pose_style = correct_labels_based_on_filename(
+            v["filename"], img_detail, img_id_int
+        )
+
+        # Generate photography details using corrected labels
         photo_details = get_photography_details(
             img_detail.get("title", ""),
             img_detail.get("category_id", ""),
-            img_detail.get("content_labels", []),
-            img_detail.get("technique_labels", []),
+            content_labels,
+            technique_labels,
             img_detail.get("dominant_colors", []),
             img_id_int
         )
         img_detail["photography_details"] = photo_details
         
-        framing, pose_style, location = map_new_fields(
-            img_detail.get("title", ""),
-            img_detail.get("description", ""),
-            img_detail.get("content_labels", []),
-            img_detail.get("technique_labels", []),
-            img_id_int
-        )
+        img_detail["content_labels"] = content_labels
+        img_detail["technique_labels"] = technique_labels
         img_detail["framing"] = framing
         img_detail["pose_style"] = pose_style
         img_detail["location"] = location
