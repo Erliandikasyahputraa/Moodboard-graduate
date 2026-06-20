@@ -55,6 +55,41 @@ def get_photography_details(title, category_id, content_labels, technique_labels
         "suggested_settings": suggested_settings
     }
 
+def map_new_fields(title, desc, content_labels, technique_labels, index):
+    content = content_labels[0] if content_labels else "Solo"
+    tech = technique_labels[0] if technique_labels else "Film"
+    title_l = title.lower()
+    desc_l = desc.lower()
+    
+    # 1. Map Location (Outdoor, Indoor, Urban)
+    if "studio" in title_l or "pasfoto" in title_l or "indoor" in title_l or "tidur" in title_l or "perpustakaan" in title_l:
+        location = "Indoor"
+    elif "jalan" in title_l or "kereta" in title_l or "stasiun" in title_l or "kafe" in title_l or "kota" in title_l or "lalu lintas" in desc_l:
+        location = "Urban"
+    elif tech == "Sunset" or "taman" in title_l or "kampus" in desc_l or "gedung rektorat" in desc_l or "lapangan" in desc_l or "luar ruangan" in desc_l or "outdoor" in title_l:
+        location = "Outdoor"
+    else:
+        loc_opts = ["Outdoor", "Indoor", "Urban"]
+        location = loc_opts[index % 3]
+
+    # 2. Map Framing (Close-Up, Medium Shot, Wide Shot)
+    if content == "Objek" or "pasfoto" in title_l or "detail" in title_l or "close-up" in desc_l or "wajah" in desc_l or "tangan" in desc_l:
+        framing = "Close-Up"
+    elif "longshot" in title_l or "wide" in title_l or "seluruh badan" in desc_l or "siluet" in title_l or "pemandangan" in desc_l or (content in ["Keluarga", "Teman"] and index % 2 == 0):
+        framing = "Wide Shot"
+    else:
+        framing = "Medium Shot"
+
+    # 3. Map Pose Style (Formal, Candid)
+    if "pasfoto" in title_l or "formal" in title_l or "pose" in title_l or "berdiri rapi" in desc_l or "siap" in desc_l:
+        pose_style = "Formal"
+    elif "candid" in title_l or "candid" in desc_l or "tertawa" in desc_l or "berjalan" in desc_l or "senyum natural" in desc_l or "tidur" in title_l or "revisi" in title_l or "meme" in title_l:
+        pose_style = "Candid"
+    else:
+        pose_style = "Formal" if index % 3 == 0 else "Candid"
+
+    return framing, pose_style, location
+
 def main():
     if not os.path.exists(MAPPING_FILE):
         print(f"[Error] {MAPPING_FILE} tidak ditemukan. Silakan jalankan create_contact_sheets.py terlebih dahulu.")
@@ -826,6 +861,17 @@ def main():
             img_id_int
         )
         img_detail["photography_details"] = photo_details
+        
+        framing, pose_style, location = map_new_fields(
+            img_detail.get("title", ""),
+            img_detail.get("description", ""),
+            img_detail.get("content_labels", []),
+            img_detail.get("technique_labels", []),
+            img_id_int
+        )
+        img_detail["framing"] = framing
+        img_detail["pose_style"] = pose_style
+        img_detail["location"] = location
         
         final_images.append(img_detail)
         

@@ -7,6 +7,9 @@ let appState = {
     images: [],
     activeSubject: "all",
     activeVibe: "all",
+    activeFraming: "all",
+    activePose: "all",
+    activeLocation: "all",
     searchQuery: "",
     gridSize: "md",
     layout: "masonry"
@@ -24,6 +27,9 @@ const searchInput = document.getElementById("search-input");
 // Filter & Grid Elements
 const subjectFilters = document.getElementById("subject-filters");
 const vibeFilters = document.getElementById("vibe-filters");
+const framingFilters = document.getElementById("framing-filters");
+const poseFilters = document.getElementById("pose-filters");
+const locationFilters = document.getElementById("location-filters");
 const gridBtnGroup = document.querySelector(".grid-btn-group");
 const layoutBtnGroup = document.querySelector(".layout-btn-group");
 
@@ -114,7 +120,7 @@ function renderGrid() {
         masonryGrid.classList.add("grid-lg");
     }
 
-    // Filter gambar berdasarkan Subject, Vibe, dan Search Query
+    // Filter gambar berdasarkan Subject, Vibe, Framing, Pose, Lokasi dan Search Query
     const filteredImages = appState.images.filter(img => {
         // 1. Filter Subjek
         const matchesSubject = appState.activeSubject === "all" || 
@@ -123,8 +129,20 @@ function renderGrid() {
         // 2. Filter Vibe/Teknik
         const matchesVibe = appState.activeVibe === "all" || 
             (img.technique_labels && img.technique_labels.includes(appState.activeVibe));
+
+        // 3. Filter Framing
+        const matchesFraming = appState.activeFraming === "all" || 
+            (img.framing && img.framing === appState.activeFraming);
+
+        // 4. Filter Pose
+        const matchesPose = appState.activePose === "all" || 
+            (img.pose_style && img.pose_style === appState.activePose);
+
+        // 5. Filter Lokasi
+        const matchesLocation = appState.activeLocation === "all" || 
+            (img.location && img.location === appState.activeLocation);
         
-        // 3. Pencarian Teks
+        // 6. Pencarian Teks
         const searchLower = appState.searchQuery.toLowerCase();
         const matchesSearch = !appState.searchQuery || 
             (img.title && img.title.toLowerCase().includes(searchLower)) ||
@@ -132,7 +150,7 @@ function renderGrid() {
             (img.tone && img.tone.toLowerCase().includes(searchLower)) ||
             (img.aesthetic_tags && img.aesthetic_tags.some(tag => tag.toLowerCase().includes(searchLower)));
             
-        return matchesSubject && matchesVibe && matchesSearch;
+        return matchesSubject && matchesVibe && matchesFraming && matchesPose && matchesLocation && matchesSearch;
     });
 
     if (filteredImages.length === 0) {
@@ -261,6 +279,42 @@ function setupEventListeners() {
         btn.classList.add("active");
         
         appState.activeVibe = btn.getAttribute("data-value");
+        renderGrid();
+    });
+
+    // 2.2. Filter Framing
+    framingFilters.addEventListener("click", (e) => {
+        const btn = e.target.closest(".filter-btn");
+        if (!btn) return;
+        
+        framingFilters.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        
+        appState.activeFraming = btn.getAttribute("data-value");
+        renderGrid();
+    });
+
+    // 2.4. Filter Pose
+    poseFilters.addEventListener("click", (e) => {
+        const btn = e.target.closest(".filter-btn");
+        if (!btn) return;
+        
+        poseFilters.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        
+        appState.activePose = btn.getAttribute("data-value");
+        renderGrid();
+    });
+
+    // 2.6. Filter Lokasi
+    locationFilters.addEventListener("click", (e) => {
+        const btn = e.target.closest(".filter-btn");
+        if (!btn) return;
+        
+        locationFilters.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        
+        appState.activeLocation = btn.getAttribute("data-value");
         renderGrid();
     });
 

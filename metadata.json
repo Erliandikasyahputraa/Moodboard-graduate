@@ -63,6 +63,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Saat tatapan itu mengunci jiwanya, ia tahu ia harus menyerah."
     },
     {
@@ -98,6 +101,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Siapakah yang menunggu di antara pepohonan yang sunyi?"
     },
     {
@@ -133,6 +139,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Di balik tatapan datar ini, ada ribuan malam tanpa tidur demi gelar sarjana."
     },
     {
@@ -168,6 +177,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Berapa banyak mahasiswa yang tertawa melihat gerbang ini setiap paginya?"
     },
     {
@@ -203,6 +215,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Ketika dosen pembimbing berkata 'tolong revisi bab 4 lagi'."
     },
     {
@@ -238,6 +253,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Wide Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Sebuah bantuan kecil terakhir sebelum kita berjalan di panggung masing-masing."
     },
     {
@@ -273,6 +291,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Untuk siapakah mawar ini diletakkan, dan mengapa kursi itu sekarang kosong?"
     },
     {
@@ -308,6 +329,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Wide Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Apakah dia nyata, atau hanya ingatan yang bersinar di kepalanya?"
     },
     {
@@ -343,6 +367,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Mimpi apa yang hadir ketika realitas tugas terlalu berat untuk dipikirkan?"
     },
     {
@@ -378,6 +405,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Kamu tidak pernah berjuang sendirian; mereka selalu ada di belakangmu."
     },
     {
@@ -413,6 +443,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Apakah jubah ini benar-benar mewakili pencapaian jiwanya?"
     },
     {
@@ -448,6 +481,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Kita memulainya sebagai orang asing, dan mengakhirinya sebagai pemenang."
     },
     {
@@ -483,6 +519,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Satu foto terakhir untuk membekukan waktu yang terus berjalan."
     },
     {
@@ -518,6 +557,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Di tengah keramaian wisuda, pikirannya terbang ke tempat yang sangat jauh."
     },
     {
@@ -553,6 +595,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Urban",
       "story_prompt": "Terkadang lebih mudah menghadapi dunia luar dengan menyembunyikan wajah kita."
     },
     {
@@ -588,6 +633,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Siapa yang mengawasi kita saat kita berjalan ke masa depan yang tak pasti?"
     },
     {
@@ -623,6 +671,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Sebuah perpisahan di tepi pantai, merelakan mimpi yang tidak bisa berjalan bersama."
     },
     {
@@ -658,6 +709,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Ketika panggung perayaan telah sepi, siapakah dirimu yang sebenarnya?"
     },
     {
@@ -693,6 +747,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Melihat kembali lembaran hidup yang dibekukan di dinding kenangan."
     },
     {
@@ -728,6 +785,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Setiap serpihan foto ini menyimpan cerita perjuangan yang tak ternilai."
     },
     {
@@ -763,6 +823,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Ruang kelas ini pernah dipenuhi tawa, kini menyisakan sunyi dan cahaya."
     },
     {
@@ -798,6 +861,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Berlari sekencang mungkin untuk menyelesaikan babak perjuangan ini."
     },
     {
@@ -833,6 +899,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Berjalan bersama melewati batas akhir masa perkuliahan."
     },
     {
@@ -868,6 +937,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Bayangan masa depan yang membentang lebar di hadapan jalannya."
     },
     {
@@ -903,6 +975,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Siapakah kita saat teori-teori buku selesai kita pelajari?"
     },
     {
@@ -938,6 +1013,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Terkadang ingatan adalah satu-satunya teman yang tersisa di bangku dingin ini."
     },
     {
@@ -973,6 +1051,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Hari kelulusan yang formal selalu memiliki celah untuk tawa jenaka sahabat."
     },
     {
@@ -1008,6 +1089,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Dalam ingatan mereka, hari ini adalah milikmu sepenuhnya."
     },
     {
@@ -1043,6 +1127,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Tangga ini membawa langkahnya menuju panggung impian yang telah lama ia bangun."
     },
     {
@@ -1078,6 +1165,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Waktu bergerak cepat, menuntut kita melangkah tanpa pernah menoleh ke belakang."
     },
     {
@@ -1113,6 +1203,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Pegang tanganku, di mana pun batas akhir perjalanan kita nanti."
     },
     {
@@ -1148,6 +1241,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Di antara tangga-tangga ini, ia menata kembali mimpi-mimpinya pasca-kelulusan."
     },
     {
@@ -1183,6 +1279,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Beristirahat sejenak dari riuhnya pesta wisuda di luar sana."
     },
     {
@@ -1218,6 +1317,9 @@
         "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Wide Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Gelar ini adalah milik mereka yang mendoakanmu tanpa putus."
     },
     {
@@ -1253,6 +1355,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Menjadi satu titik kecil di tengah gunungan kata dan teori."
     },
     {
@@ -1288,6 +1393,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Satu kursi kosong untuk jawaban yang tak pernah kembali ke pantai ini."
     },
     {
@@ -1323,6 +1431,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Identitas digital kita terkadang lebih nyata daripada wajah asli kita."
     },
     {
@@ -1358,6 +1469,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Berjalan menyusuri labirin beton kota, mencari ke mana berkas cahaya menuntun."
     },
     {
@@ -1393,6 +1507,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Setiap memori di kampus ini dicat dengan palet warna hangat yang tak akan pudar."
     },
     {
@@ -1428,6 +1545,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Apakah dia nyata atau hanya ingatan yang membayangi jalan sunyi ini?"
     },
     {
@@ -1463,6 +1583,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Di padang sepi ini, batas antara ingatan dan kenyataan memudar."
     },
     {
@@ -1498,6 +1621,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Ia berjalan sendirian membawa seberkas cahaya menembus kegelapan belantara."
     },
     {
@@ -1533,6 +1659,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Masa lalu membeku di belakangnya, sementara fajar baru menanti di depan matanya."
     },
     {
@@ -1568,6 +1697,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Di tengah dunia yang luas dan kosong, ia adalah pencari jalannya sendiri."
     },
     {
@@ -1603,6 +1735,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Ksatria terkuat adalah dia yang mampu menjaga kelembutan di balik zirahnya."
     },
     {
@@ -1638,6 +1773,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Dinding-dinding dingin ini telah menjadi saksi dari ribuan teori yang diujikan."
     },
     {
@@ -1673,6 +1811,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Pertanyaan sederhana yang selalu mengetuk kepala di tengah-tengah kuliah teori yang rumit."
     },
     {
@@ -1708,6 +1849,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Di balik gelar yang megah, perjuangan mahasiswa sering kali sekompleks merawat mesin pendingin."
     },
     {
@@ -1743,6 +1887,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Hanya secangkir kopi dingin dan tumpukan kertas yang menemaninya melewati malam penentuan ini."
     },
     {
@@ -1778,6 +1925,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Setiap halaman yang ia balik adalah satu langkah lebih dekat menuju pembebasan."
     },
     {
@@ -1813,6 +1963,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Dari sudut pandang ini, semua jalan menuju masa depan terlihat lebih menantang."
     },
     {
@@ -1848,6 +2001,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Di ujung cakrawala sana, kota baru dengan impian baru menantinya untuk berlabuh."
     },
     {
@@ -1883,6 +2039,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Saat matahari tenggelam, bayanganmu adalah satu-satunya hal hangat yang enggan kulepaskan."
     },
     {
@@ -1918,6 +2077,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Kursi itu diletakkan di sana untuk harapan yang tenggelam di dasar samudra kenangan."
     },
     {
@@ -1953,6 +2115,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Menanggung beban tanda ini di pundak kita, terus berjuang di tengah badai skripsi yang tak berujung."
     },
     {
@@ -1988,6 +2153,9 @@
         "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Wide Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Senyuman mereka adalah pencapaian terbesar dari lembaran toga yang kupakai hari ini."
     },
     {
@@ -2023,6 +2191,9 @@
         "technique_and_angle": "Dutch Angle (Miring) atau Eye Level Action Shot untuk menangkap keseruan pose gerak dinamis secara candid.",
         "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Saat lonceng terakhir berbunyi, kita tahu kita tak akan kembali ke lorong ini dengan cara yang sama."
     },
     {
@@ -2058,6 +2229,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Kapal-kapal ini menanti pelayaran baru, sama seperti jiwanya yang siap bertualang ke kota asing."
     },
     {
@@ -2093,6 +2267,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Tinggalkan kota dan teori sejenak, biarkan alam mengajarkan cara melangkah tanpa beban."
     },
     {
@@ -2128,6 +2305,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Ketika semua orang bergegas merayakan kelulusan, ia terdiam memikirkan arti perpisahan ini."
     },
     {
@@ -2163,6 +2343,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Di tengah dunia yang bergerak cepat, carilah tempat hening di dalam jiwamu."
     },
     {
@@ -2198,6 +2381,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Sudut tangga ini menyimpan sisa keluh kesah sebelum ujian akhir dimulai."
     },
     {
@@ -2233,6 +2419,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Benda-benda ini adalah bukti bisu dari perjuangan malam-malam panjang skripsi."
     },
     {
@@ -2268,6 +2457,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Melangkah menembus batas akhir kampus, bersiap menaklukkan tantangan dunia luar."
     },
     {
@@ -2303,6 +2495,9 @@
         "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Karena kelulusan terbaik dirayakan dengan tawa lepas bersama keluarga."
     },
     {
@@ -2338,6 +2533,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Gelar di pundak ini adalah janji awal untuk mengabdi pada kebaikan."
     },
     {
@@ -2373,6 +2571,9 @@
         "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Di dalam matamu, aku menemukan rumah tempat semua perjuangan perkuliahan ini berakhir dengan damai."
     },
     {
@@ -2408,6 +2609,9 @@
         "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Wide Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Setiap langkah kaki hari ini terasa ringan karena restu tulus yang mengiringi di kanan kiri."
     },
     {
@@ -2443,6 +2647,9 @@
         "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Bersama mereka, dinding dingin kampus terasa hangat dan penuh warna."
     },
     {
@@ -2478,6 +2685,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Pakaian ini adalah zirah baru untuk pertempuran di dunia profesional pasca-kampus."
     },
     {
@@ -2513,6 +2723,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Terima kasih untuk segalanya. Aku pamit untuk melangkah lebih jauh."
     },
     {
@@ -2548,6 +2761,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Wide Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Kotak hydrant ini berwarna merah menyala, persis seperti semangat persahabatan kita yang tak padam ditiup angin perpisahan."
     },
     {
@@ -2583,6 +2799,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Dalam bayang-bayang ini, aku menata kembali semua teori yang pernah kupelajari."
     },
     {
@@ -2618,6 +2837,9 @@
         "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Tangan lembut ibu adalah penopang tak terlihat di balik kesuksesan yang kuraih hari ini."
     },
     {
@@ -2653,6 +2875,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Kapan kamu bekerja? Di mana kamu akan tinggal? Ribuan tanya mengepung jalannya."
     },
     {
@@ -2688,6 +2913,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Di sudut sepi ini, ia berjuang memaafkan ketidaksempurnaan dirinya."
     },
     {
@@ -2723,6 +2951,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Dua guru terbaik: yang mengajarkan cara belajar, dan yang mengajarkan cara bertarung."
     },
     {
@@ -2758,6 +2989,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Mengubah tekanan skripsi menjadi energi otot di ruang latihan."
     },
     {
@@ -2793,6 +3027,9 @@
         "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Menutup buku hari ini, bersiap membuka lembaran baru esok pagi."
     },
     {
@@ -2828,6 +3065,9 @@
         "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Kereta ini membawa lebih dari sekadar tubuh; ia membawa semua mimpi masa muda."
     },
     {
@@ -2863,6 +3103,9 @@
         "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Ibu berkata, 'Semua lelahku hilang hari ini melihatmu memakai toga.'"
     },
     {
@@ -2898,6 +3141,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Setiap anak tangga yang kudaki membimbingku keluar dari labirin masa muda."
     },
     {
@@ -2933,6 +3179,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Jika kamu bisa berbisik pada dirimu di hari pertama kuliah, apa yang akan kamu katakan?"
     },
     {
@@ -2968,6 +3217,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Kita melangkah masuk sebagai pemimpi, dan melangkah keluar sebagai pemenang."
     },
     {
@@ -3003,6 +3255,9 @@
         "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Malam terakhir di sudut taman ini sebelum esok pagi membawa kita ke kota yang berbeda."
     },
     {
@@ -3038,6 +3293,9 @@
         "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
         "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Urban",
       "story_prompt": "Lorong simetris ini membentang panjang, menggambarkan jalan masa depan yang harus kutempuh."
     },
     {
@@ -3073,6 +3331,9 @@
         "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Formal",
+      "location": "Outdoor",
       "story_prompt": "Langit sore ini adalah lukisan terindah untuk menutup lembaran cerita kampus kita."
     },
     {
@@ -3108,6 +3369,9 @@
         "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
         "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Indoor",
       "story_prompt": "Di bangku inilah semua id, kecemasan, dan persahabatan pernah lahir."
     },
     {
@@ -3143,6 +3407,9 @@
         "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Kita melangkah keluar membawa naga impian masa kecil kita ke dunia nyata."
     },
     {
@@ -3178,6 +3445,9 @@
         "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Close-Up",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Ini bukanlah akhir dari cerita, melainkan awal dari perjalanan yang sesungguhnya."
     },
     {
@@ -3213,6 +3483,9 @@
         "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Melangkah ke dunia yang tidak kita ketahui, dengan harapan yang membimbing di dada."
     },
     {
@@ -3248,6 +3521,9 @@
         "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
         "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Selamat. Kamu telah belajar banyak. Sekarang ajarkan kebaikan itu kepada dunia."
     },
     {
@@ -3283,6 +3559,9 @@
         "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
         "suggested_settings": "Lensa 35mm f/1.8 | Aperture: f/4.0 | Shutter: 1/160s (flash sync) | Eksternal Flash 1/16 power | ISO: 200"
       },
+      "framing": "Medium Shot",
+      "pose_style": "Candid",
+      "location": "Outdoor",
       "story_prompt": "Biar dunia luar berisik, malam ini kita tertawa bersama seolah waktu telah berhenti."
     }
   ]
