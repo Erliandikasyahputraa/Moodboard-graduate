@@ -261,6 +261,50 @@ body {
     flex-direction: column;
     gap: 12px;
     width: 100%;
+    max-height: 500px;
+    opacity: 1;
+    overflow: hidden;
+    transition: max-height 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
+                opacity 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                margin-top 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.filters-container.collapsed {
+    max-height: 0;
+    opacity: 0;
+    margin-top: -12px;
+    pointer-events: none;
+}
+
+/* Curtain Toggle Button (Handle Gorden) */
+.filters-toggle-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: none;
+    border: none;
+    border-top: 1px solid var(--border-color);
+    width: 100%;
+    padding: 8px 0 0 0;
+    margin-top: 8px;
+    font-family: var(--font-family);
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition-smooth);
+}
+
+.filters-toggle-btn:hover {
+    color: var(--text-primary);
+}
+
+.filters-toggle-btn .toggle-icon {
+    font-size: 0.7rem;
+    transition: transform 0.4s ease;
 }
 
 .filter-group {
