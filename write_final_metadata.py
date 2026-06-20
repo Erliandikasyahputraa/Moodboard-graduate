@@ -4,6 +4,57 @@ import os
 MAPPING_FILE = "docs/sheet_mapping.json"
 METADATA_FILE = "metadata.json"
 
+def get_photography_details(title, category_id, content_labels, technique_labels, dominant_colors, index):
+    tech = technique_labels[0] if technique_labels else "Film"
+    content = content_labels[0] if content_labels else "Solo"
+    
+    grading_styles = {
+        "Sunset": f"Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan ({', '.join(dominant_colors[:2])}).",
+        "Dark": f"Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow ({', '.join(dominant_colors[:2])}) untuk nuansa sinematik melankolis.",
+        "Film": f"Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal ({', '.join(dominant_colors[:2])}), serta highlight yang digulung lembut (soft roll-off).",
+        "Blur": f"Grading warna alami/soft dengan kontras rendah. Penekanan pada transisi warna dinamis ({', '.join(dominant_colors[:2])}) untuk mendukung efek gerak (motion blur) tanpa distorsi saturasi.",
+        "Flash": f"High contrast grading dengan direct flash lighting. Warna kulit natural namun tersaturasi kuat, bayangan tajam di belakang subjek, warna latar belakang diredupkan untuk fokus subjek ({', '.join(dominant_colors[:2])})."
+    }
+    color_grading = grading_styles.get(tech, f"Grading warna natural terkurasi dengan penyesuaian kontras menengah, menekankan palet warna {', '.join(dominant_colors)}.")
+
+    if content == "Objek":
+        technique_and_angle = "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8."
+    elif content == "Pasangan":
+        technique_and_angle = "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim."
+    elif content == "Keluarga":
+        technique_and_angle = "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh."
+    elif content == "Teman":
+        if tech == "Blur":
+            technique_and_angle = "Dutch Angle (Miring) atau Eye Level Action Shot untuk menangkap keseruan pose gerak dinamis secara candid."
+        else:
+            technique_and_angle = "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup."
+    else:  # Solo
+        if tech == "Sunset":
+            technique_and_angle = "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek."
+        elif tech == "Dark":
+            technique_and_angle = "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis."
+        else:
+            technique_and_angle = "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah."
+
+    if tech == "Sunset":
+        suggested_settings = "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
+    elif tech == "Dark":
+        suggested_settings = "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+    elif tech == "Film":
+        suggested_settings = "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+    elif tech == "Blur":
+        suggested_settings = "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
+    elif tech == "Flash":
+        suggested_settings = "Lensa 35mm f/1.8 | Aperture: f/4.0 | Shutter: 1/160s (flash sync) | Eksternal Flash 1/16 power | ISO: 200"
+    else:
+        suggested_settings = "Lensa 50mm f/1.8 | Aperture: f/2.5 | Shutter: 1/125s | ISO: 200"
+
+    return {
+        "color_grading": color_grading,
+        "technique_and_angle": technique_and_angle,
+        "suggested_settings": suggested_settings
+    }
+
 def main():
     if not os.path.exists(MAPPING_FILE):
         print(f"[Error] {MAPPING_FILE} tidak ditemukan. Silakan jalankan create_contact_sheets.py terlebih dahulu.")
@@ -764,6 +815,18 @@ def main():
         # Merge mapping info
         img_detail["id"] = v["id"]
         img_detail["filename"] = v["filename"]
+        
+        # Generate photography details
+        photo_details = get_photography_details(
+            img_detail.get("title", ""),
+            img_detail.get("category_id", ""),
+            img_detail.get("content_labels", []),
+            img_detail.get("technique_labels", []),
+            img_detail.get("dominant_colors", []),
+            img_id_int
+        )
+        img_detail["photography_details"] = photo_details
+        
         final_images.append(img_detail)
         
     final_json = {

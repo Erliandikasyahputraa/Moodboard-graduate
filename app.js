@@ -183,6 +183,12 @@ function openDrawer(img) {
     drawerVisualDesc.textContent = sensory.visual_description || "Tidak tersedia";
     drawerSound.textContent = sensory.implied_sound || "Tidak tersedia";
     drawerSeason.textContent = sensory.implied_season || "Tidak tersedia";
+
+    // Photography Details
+    const photo = img.photography_details || {};
+    document.getElementById("drawer-camera-technique").textContent = photo.technique_and_angle || "Tidak tersedia";
+    document.getElementById("drawer-camera-settings").textContent = photo.suggested_settings || "Tidak tersedia";
+    document.getElementById("drawer-color-grading").textContent = photo.color_grading || "Tidak tersedia";
     
     // Dominant Colors
     drawerColors.innerHTML = "";

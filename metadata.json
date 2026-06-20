@@ -58,6 +58,11 @@
         "implied_sound": "Hening yang memekakkan",
         "implied_season": "Senja membeku"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#0A0A0A, #F2F0E6) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Saat tatapan itu mengunci jiwanya, ia tahu ia harus menyerah."
     },
     {
@@ -87,6 +92,11 @@
         "visual_description": "Wajah perempuan kabur di depan, pria berjas di kejauhan.",
         "implied_sound": "Kicau burung samar",
         "implied_season": "Awal musim panas"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#3E543B, #E8D3C8), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Siapakah yang menunggu di antara pepohonan yang sunyi?"
     },
@@ -118,6 +128,11 @@
         "implied_sound": "Suara jepretan kamera studio tua",
         "implied_season": "Siang hari yang terik"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FF0000, #000000), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Di balik tatapan datar ini, ada ribuan malam tanpa tidur demi gelar sarjana."
     },
     {
@@ -147,6 +162,11 @@
         "visual_description": "Suntingan foto pria berjaket hijau digambar tangan menunjuk gerbang UIN.",
         "implied_sound": "Lagu TikTok viral yang berisik",
         "implied_season": "Musim kuliah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#00FF00, #D3D3D3), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Berapa banyak mahasiswa yang tertawa melihat gerbang ini setiap paginya?"
     },
@@ -178,6 +198,11 @@
         "implied_sound": "Musik dramatis kartun",
         "implied_season": "Musim revisi akhir"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#E5E5E5, #FF69B4), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Ketika dosen pembimbing berkata 'tolong revisi bab 4 lagi'."
     },
     {
@@ -207,6 +232,11 @@
         "visual_description": "Foto monokrom wisudawan merapikan topi toga temannya.",
         "implied_sound": "Riuh rendah suara ucapan selamat",
         "implied_season": "Pagi hari wisuda"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#111111, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Sebuah bantuan kecil terakhir sebelum kita berjalan di panggung masing-masing."
     },
@@ -238,6 +268,11 @@
         "implied_sound": "Desir angin sepoi-sepoi",
         "implied_season": "Siang menjelang sore"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FFFFFF, #800000), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Untuk siapakah mawar ini diletakkan, dan mengapa kursi itu sekarang kosong?"
     },
     {
@@ -267,6 +302,11 @@
         "visual_description": "Siluet pria menatap siluet wanita yang bercahaya putih benderang.",
         "implied_sound": "Latar belakang deru kota yang sunyi",
         "implied_season": "Malam musim gugur"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #FFFFFF) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Apakah dia nyata, atau hanya ingatan yang bersinar di kepalanya?"
     },
@@ -298,6 +338,11 @@
         "implied_sound": "Detik jam dinding perpustakaan",
         "implied_season": "Larut malam"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#3E2723, #D7CCC8) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Mimpi apa yang hadir ketika realitas tugas terlalu berat untuk dipikirkan?"
     },
     {
@@ -327,6 +372,11 @@
         "visual_description": "Wisudawati tersenyum dikelilingi tangan-tangan yang mengacungkan jempol.",
         "implied_sound": "Tawa bersama dan tepuk tangan ceria",
         "implied_season": "Hari wisuda yang cerah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FFFFFF, #0A3C72), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Kamu tidak pernah berjuang sendirian; mereka selalu ada di belakangmu."
     },
@@ -358,6 +408,11 @@
         "implied_sound": "Kesunyian studio foto",
         "implied_season": "Sore hari dingin"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#1A1A1A, #8C7A6B) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Apakah jubah ini benar-benar mewakili pencapaian jiwanya?"
     },
     {
@@ -387,6 +442,11 @@
         "visual_description": "Tiga lulusan membelakangi gedung kampus, mengangkat tangan mereka.",
         "implied_sound": "Sorakan kemenangan di bawah langit terbuka",
         "implied_season": "Siang hari berawan"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#7A8B7B, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Kita memulainya sebagai orang asing, dan mengakhirinya sebagai pemenang."
     },
@@ -418,6 +478,11 @@
         "implied_sound": "Klik mekanis kamera",
         "implied_season": "Pagi hari berkabut"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FFFFFF, #2C3E50), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Satu foto terakhir untuk membekukan waktu yang terus berjalan."
     },
     {
@@ -447,6 +512,11 @@
         "visual_description": "Potret monokrom pemuda berkacamata menunduk dengan jas hitam.",
         "implied_sound": "Alunan piano lambat",
         "implied_season": "Malam hari kelam"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#000000, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Di tengah keramaian wisuda, pikirannya terbang ke tempat yang sangat jauh."
     },
@@ -478,6 +548,11 @@
         "implied_sound": "Derau statis televisi",
         "implied_season": "Sore hari berbayang"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#2980B9, #C0392B), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Terkadang lebih mudah menghadapi dunia luar dengan menyembunyikan wajah kita."
     },
     {
@@ -507,6 +582,11 @@
         "visual_description": "Ilustrasi mata besar di atas kerumunan orang banyak dalam kegelapan.",
         "implied_sound": "Dengung frekuensi rendah",
         "implied_season": "Malam tanpa bintang"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#0F0F0F, #555555) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Siapa yang mengawasi kita saat kita berjalan ke masa depan yang tak pasti?"
     },
@@ -538,6 +618,11 @@
         "implied_sound": "Deburan ombak pelan di pantai sepi",
         "implied_season": "Pagi berkabut"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#DCDCDC, #000000), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Sebuah perpisahan di tepi pantai, merelakan mimpi yang tidak bisa berjalan bersama."
     },
     {
@@ -567,6 +652,11 @@
         "visual_description": "Pria duduk membelakangi kamera di tengah barisan kursi kosong yang sangat banyak.",
         "implied_sound": "Angin kosong berhembus di lapangan luas",
         "implied_season": "Siang hari mendung"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FFFFFF, #000000), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Ketika panggung perayaan telah sepi, siapakah dirimu yang sebenarnya?"
     },
@@ -598,6 +688,11 @@
         "implied_sound": "Langkah kaki menggema pelan",
         "implied_season": "Musim dingin"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#FFFFFF, #000000) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Melihat kembali lembaran hidup yang dibekukan di dinding kenangan."
     },
     {
@@ -627,6 +722,11 @@
         "visual_description": "Kolase berbagai foto detail kelulusan dan potret wisudawan.",
         "implied_sound": "Campuran suara tawa dan jepretan kamera",
         "implied_season": "Sore hari keemasan"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#1A1A1A, #C39B62), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Setiap serpihan foto ini menyimpan cerita perjuangan yang tak ternilai."
     },
@@ -658,6 +758,11 @@
         "implied_sound": "Keheningan total sore hari",
         "implied_season": "Sore hari musim kemarau"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#8C7B6E, #D9C3B0) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Ruang kelas ini pernah dipenuhi tawa, kini menyisakan sunyi dan cahaya."
     },
     {
@@ -687,6 +792,11 @@
         "visual_description": "Wisudawan berlari di trek atletik biru dengan jubah toga merah terbang.",
         "implied_sound": "Derap langkah kaki cepat dan teriakan semangat",
         "implied_season": "Pagi hari yang cerah"
+      },
+      "photography_details": {
+        "color_grading": "Grading warna alami/soft dengan kontras rendah. Penekanan pada transisi warna dinamis (#C0392B, #2C3E50) untuk mendukung efek gerak (motion blur) tanpa distorsi saturasi.",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
       "story_prompt": "Berlari sekencang mungkin untuk menyelesaikan babak perjuangan ini."
     },
@@ -718,6 +828,11 @@
         "implied_sound": "Canda gurau dua sahabat",
         "implied_season": "Sore hari hangat"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#D35400, #2C3E50), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Berjalan bersama melewati batas akhir masa perkuliahan."
     },
     {
@@ -747,6 +862,11 @@
         "visual_description": "Foto high-angle wisudawan berdiri dikelilingi bayangan garis-garis geometris besar.",
         "implied_sound": "Gema langkah kaki pelan",
         "implied_season": "Siang hari terik"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#7F8C8D, #000000) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Bayangan masa depan yang membentang lebar di hadapan jalannya."
     },
@@ -778,6 +898,11 @@
         "implied_sound": "Lembaran buku yang dibalik lambat",
         "implied_season": "Sore hari tenang"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#2C3E50, #8E44AD), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Siapakah kita saat teori-teori buku selesai kita pelajari?"
     },
     {
@@ -807,6 +932,11 @@
         "visual_description": "Lukisan digital bertema biru kelabu menampilkan seseorang di atas bangku kayu dan siluet memudar di sampingnya.",
         "implied_sound": "Suara deburan air dan embusan angin dingin",
         "implied_season": "Musim gugur yang sunyi"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#5A6B7C, #A2B5CD), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Terkadang ingatan adalah satu-satunya teman yang tersisa di bangku dingin ini."
     },
@@ -838,6 +968,11 @@
         "implied_sound": "Bisikan tawa kecil yang ditahan",
         "implied_season": "Siang hari cerah"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#8B4513, #2C3E50), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Hari kelulusan yang formal selalu memiliki celah untuk tawa jenaka sahabat."
     },
     {
@@ -867,6 +1002,11 @@
         "visual_description": "Wisudawati tersenyum di tengah jepretan layar-layar handphone di depannya.",
         "implied_sound": "Suara tawa ramah dan klik kamera handphone",
         "implied_season": "Pagi hari cerah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#000000, #F1C40F), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Dalam ingatan mereka, hari ini adalah milikmu sepenuhnya."
     },
@@ -898,6 +1038,11 @@
         "implied_sound": "Langkah sepatu di tangga beton",
         "implied_season": "Siang hari sejuk"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#4F5D6B, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Tangga ini membawa langkahnya menuju panggung impian yang telah lama ia bangun."
     },
     {
@@ -927,6 +1072,11 @@
         "visual_description": "Siluet buram sesosok pemuda yang melangkah cepat melewati hamparan taman berbunga.",
         "implied_sound": "Desau angin sore dan langkah kaki cepat",
         "implied_season": "Senja hari hangat"
+      },
+      "photography_details": {
+        "color_grading": "Grading warna alami/soft dengan kontras rendah. Penekanan pada transisi warna dinamis (#E29B7A, #2C3E50) untuk mendukung efek gerak (motion blur) tanpa distorsi saturasi.",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
       "story_prompt": "Waktu bergerak cepat, menuntut kita melangkah tanpa pernah menoleh ke belakang."
     },
@@ -958,6 +1108,11 @@
         "implied_sound": "Kicau camar di kejauhan",
         "implied_season": "Sore hari berangin"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#D6C5B3, #8C7E74), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Pegang tanganku, di mana pun batas akhir perjalanan kita nanti."
     },
     {
@@ -987,6 +1142,11 @@
         "visual_description": "Pria berjas hitam duduk santai di tangga beton luar dengan panel samping hijau pekat.",
         "implied_sound": "Keheningan siang hari kampus",
         "implied_season": "Siang hari berawan"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#D5DCD6, #1E2B22), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Di antara tangga-tangga ini, ia menata kembali mimpi-mimpinya pasca-kelulusan."
     },
@@ -1018,6 +1178,11 @@
         "implied_sound": "Suara embusan angin pelan",
         "implied_season": "Siang hari berawan"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#D5DCD6, #1E2B22), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Beristirahat sejenak dari riuhnya pesta wisuda di luar sana."
     },
     {
@@ -1047,6 +1212,11 @@
         "visual_description": "Kedua orang tua tersenyum di balkon bangunan kolonial kampus.",
         "implied_sound": "Bisikan bangga sang ayah pada ibunya",
         "implied_season": "Siang hari sejuk"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#4E3629, #D7CCC8), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Gelar ini adalah milik mereka yang mendoakanmu tanpa putus."
     },
@@ -1078,6 +1248,11 @@
         "implied_sound": "Kertas koran yang robek perlahan",
         "implied_season": "Malam hari suntuk"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#FFFFFF, #000000) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Menjadi satu titik kecil di tengah gunungan kata dan teori."
     },
     {
@@ -1107,6 +1282,11 @@
         "visual_description": "Foto minimalis dua kursi lipat di atas pasir abu-abu berlatar laut yang tertutup kabut tebal.",
         "implied_sound": "Deburan ombak dingin yang lambat dan sunyi",
         "implied_season": "Musim dingin basah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#E8E8E8, #2F3E46), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Satu kursi kosong untuk jawaban yang tak pernah kembali ke pantai ini."
     },
@@ -1138,6 +1318,11 @@
         "implied_sound": "Riuh obrolan wisuda di aula tertutup",
         "implied_season": "Siang hari hangat"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#7B1E26, #F5EBE6), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Identitas digital kita terkadang lebih nyata daripada wajah asli kita."
     },
     {
@@ -1167,6 +1352,11 @@
         "visual_description": "Kontras tinggi bayangan struktur beton besar dengan siluet orang berjalan di bawah celah sinar matahari.",
         "implied_sound": "Deru mesin kendaraan samar dari atas jalan layang",
         "implied_season": "Siang hari terik"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #D9CDBF) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Berjalan menyusuri labirin beton kota, mencari ke mana berkas cahaya menuntun."
     },
@@ -1198,6 +1388,11 @@
         "implied_sound": "Hening yang damai",
         "implied_season": "Sore hari tenang"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#725B3E, #A88670), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Setiap memori di kampus ini dicat dengan palet warna hangat yang tak akan pudar."
     },
     {
@@ -1227,6 +1422,11 @@
         "visual_description": "Pemuda berbaju putih bersandar di pohon besar menghadap siluet cahaya wanita di tengah kabut hijau hutan.",
         "implied_sound": "Kicau jangkrik hutan and keheningan misterius",
         "implied_season": "Pagi hari dingin berkabut"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#3B4E38, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Apakah dia nyata atau hanya ingatan yang membayangi jalan sunyi ini?"
     },
@@ -1258,6 +1458,11 @@
         "implied_sound": "Desau angin rumput bergoyang",
         "implied_season": "Sore hari mendung"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#4F6D4F, #DCDCDC), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Di padang sepi ini, batas antara ingatan dan kenyataan memudar."
     },
     {
@@ -1287,6 +1492,11 @@
         "visual_description": "Siluet manusia bersinar putih berdiri di atas jalan tanah cokelat dikelilingi batang pohon pinus kabur.",
         "implied_sound": "Langkah kaki di atas daun kering yang patah",
         "implied_season": "Musim gugur dingin"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#8C6B50, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Ia berjalan sendirian membawa seberkas cahaya menembus kegelapan belantara."
     },
@@ -1318,6 +1528,11 @@
         "implied_sound": "Sorak wisudawan di kejauhan yang diredam angin",
         "implied_season": "Pagi hari yang hangat"
       },
+      "photography_details": {
+        "color_grading": "Grading warna alami/soft dengan kontras rendah. Penekanan pada transisi warna dinamis (#FFFFFF, #8C7A6B) untuk mendukung efek gerak (motion blur) tanpa distorsi saturasi.",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
+      },
       "story_prompt": "Masa lalu membeku di belakangnya, sementara fajar baru menanti di depan matanya."
     },
     {
@@ -1347,6 +1562,11 @@
         "visual_description": "Satu orang bertoga kecil di tengah pola garis-garis ubin putih berukuran besar.",
         "implied_sound": "Gema langkah sepatu tunggal",
         "implied_season": "Siang hari mendung"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FFFFFF, #000000), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Di tengah dunia yang luas dan kosong, ia adalah pencari jalannya sendiri."
     },
@@ -1378,6 +1598,11 @@
         "implied_sound": "Petikan kecapi yang lembut dan sunyi",
         "implied_season": "Musim dingin berakhir"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#2C3E50, #F1C40F), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Ksatria terkuat adalah dia yang mampu menjaga kelembutan di balik zirahnya."
     },
     {
@@ -1407,6 +1632,11 @@
         "visual_description": "Bagian samping gedung beton putih bergaya modern fungsional dengan deretan jendela kotak hitam.",
         "implied_sound": "Dengung kipas angin kelas di kejauhan",
         "implied_season": "Siang hari berawan kelabu"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#EBEBEB, #2B2B2B), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Dinding-dinding dingin ini telah menjadi saksi dari ribuan teori yang diujikan."
     },
@@ -1438,6 +1668,11 @@
         "implied_sound": "Suara gemercik air danau ditiup angin sepoi",
         "implied_season": "Sore hari sejuk"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#4F6B7E, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Pertanyaan sederhana yang selalu mengetuk kepala di tengah-tengah kuliah teori yang rumit."
     },
     {
@@ -1467,6 +1702,11 @@
         "visual_description": "Foto membelakangi seorang pria bercelana hitam berselempang merah di samping mesin AC outdoor putih di luar ruangan.",
         "implied_sound": "Dengung bising mesin AC outdoor",
         "implied_season": "Siang hari panas menyengat"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FFFFFF, #7E191B), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Di balik gelar yang megah, perjuangan mahasiswa sering kali sekompleks merawat mesin pendingin."
     },
@@ -1498,6 +1738,11 @@
         "implied_sound": "Hening malam diselingi coretan pulpen di kertas",
         "implied_season": "Dini hari sunyi"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #FFFFFF) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Hanya secangkir kopi dingin dan tumpukan kertas yang menemaninya melewati malam penentuan ini."
     },
     {
@@ -1527,6 +1772,11 @@
         "visual_description": "Mahasiswa menunduk memegang kepala di depan buku terbuka dengan secangkir kopi di sampingnya.",
         "implied_sound": "Detak jam dinding yang lambat",
         "implied_season": "Larut malam"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #FFFFFF) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Setiap halaman yang ia balik adalah satu langkah lebih dekat menuju pembebasan."
     },
@@ -1558,6 +1808,11 @@
         "implied_sound": "Gema obrolan di kejauhan bangunan",
         "implied_season": "Siang hari berangin"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#DCDCD9, #2A2A2B), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Dari sudut pandang ini, semua jalan menuju masa depan terlihat lebih menantang."
     },
     {
@@ -1587,6 +1842,11 @@
         "visual_description": "Potret siluet profil samping pemuda berkacamata menatap ke arah laut luas.",
         "implied_sound": "Deru angin laut dan deburan ombak samar",
         "implied_season": "Sore hari mendung dingin"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#000000, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Di ujung cakrawala sana, kota baru dengan impian baru menantinya untuk berlabuh."
     },
@@ -1618,6 +1878,11 @@
         "implied_sound": "Hening senja dan hembusan angin hangat",
         "implied_season": "Senja musim kemarau"
       },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#F39C12, #D35400).",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
+      },
       "story_prompt": "Saat matahari tenggelam, bayanganmu adalah satu-satunya hal hangat yang enggan kulepaskan."
     },
     {
@@ -1647,6 +1912,11 @@
         "visual_description": "Seseorang menunduk duduk di kursi di dalam air laut datar berlatar langit putih bersih disandingkan kursi kosong.",
         "implied_sound": "Aliran air tenang menyentuh kaki kursi",
         "implied_season": "Pagi hari dingin"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#E5ECE9, #5C6B73), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Kursi itu diletakkan di sana untuk harapan yang tenggelam di dasar samudra kenangan."
     },
@@ -1678,6 +1948,11 @@
         "implied_sound": "Derau angin malam yang mencekam",
         "implied_season": "Malam hari kelam"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #FF0000) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Menanggung beban tanda ini di pundak kita, terus berjuang di tengah badai skripsi yang tak berujung."
     },
     {
@@ -1707,6 +1982,11 @@
         "visual_description": "Kolase dua foto menampilkan momen pemasangan topi toga oleh orang tua dan foto pose bersama.",
         "implied_sound": "Suara tangis haru ibu dan bisikan selamat sang ayah",
         "implied_season": "Pagi hari wisuda yang cerah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#CBA370, #ECE5DB), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Senyuman mereka adalah pencapaian terbesar dari lembaran toga yang kupakai hari ini."
     },
@@ -1738,6 +2018,11 @@
         "implied_sound": "Suara langkah kaki riuh dan tawa lepas",
         "implied_season": "Sore hari musim panas"
       },
+      "photography_details": {
+        "color_grading": "Grading warna alami/soft dengan kontras rendah. Penekanan pada transisi warna dinamis (#7F8C8D, #FFFFFF) untuk mendukung efek gerak (motion blur) tanpa distorsi saturasi.",
+        "technique_and_angle": "Dutch Angle (Miring) atau Eye Level Action Shot untuk menangkap keseruan pose gerak dinamis secara candid.",
+        "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
+      },
       "story_prompt": "Saat lonceng terakhir berbunyi, kita tahu kita tak akan kembali ke lorong ini dengan cara yang sama."
     },
     {
@@ -1767,6 +2052,11 @@
         "visual_description": "Pria berambut gelap membelakangi kamera di tepi air menatap jajaran perahu layar kecil.",
         "implied_sound": "Riak air tenang memukul tepian dermaga",
         "implied_season": "Sore hari sejuk mendung"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#000000, #FFFFFF), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Kapal-kapal ini menanti pelayaran baru, sama seperti jiwanya yang siap bertualang ke kota asing."
     },
@@ -1798,6 +2088,11 @@
         "implied_sound": "Kicau burung liar dan gemerisik rerumputan padang",
         "implied_season": "Pagi hari musim semi yang cerah"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#6A8D56, #E8ECE9), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Tinggalkan kota dan teori sejenak, biarkan alam mengajarkan cara melangkah tanpa beban."
     },
     {
@@ -1827,6 +2122,11 @@
         "visual_description": "Wisudawan dengan medali berdiri tegak di tengah lorong beton sementara siluet orang lain buram berjalan cepat.",
         "implied_sound": "Gema riuh langkah orang banyak yang teredam di telinga",
         "implied_season": "Pagi hari wisuda"
+      },
+      "photography_details": {
+        "color_grading": "Grading warna alami/soft dengan kontras rendah. Penekanan pada transisi warna dinamis (#000000, #FFFFFF) untuk mendukung efek gerak (motion blur) tanpa distorsi saturasi.",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
       },
       "story_prompt": "Ketika semua orang bergegas merayakan kelulusan, ia terdiam memikirkan arti perpisahan ini."
     },
@@ -1858,6 +2158,11 @@
         "implied_sound": "Langkah kaki terburu-buru yang menggema",
         "implied_season": "Pagi hari wisuda"
       },
+      "photography_details": {
+        "color_grading": "Grading warna alami/soft dengan kontras rendah. Penekanan pada transisi warna dinamis (#000000, #FFFFFF) untuk mendukung efek gerak (motion blur) tanpa distorsi saturasi.",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 24-70mm f/2.8 | Aperture: f/5.6 | Shutter: 1/15s - 1/30s (untuk handheld motion blur) | ISO: 100"
+      },
       "story_prompt": "Di tengah dunia yang bergerak cepat, carilah tempat hening di dalam jiwamu."
     },
     {
@@ -1887,6 +2192,11 @@
         "visual_description": "Seseorang berbaju gelap duduk di atas anak tangga semen di dekat pagar pengaman besi putih.",
         "implied_sound": "Langkah kaki menjauh di koridor atas",
         "implied_season": "Sore hari sunyi"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#E8E8E8, #2C3E50) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Sudut tangga ini menyimpan sisa keluh kesah sebelum ujian akhir dimulai."
     },
@@ -1918,6 +2228,11 @@
         "implied_sound": "Bisikan angin sore di lapangan rumput kampus",
         "implied_season": "Sore hari cerah"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#27ae60, #c0392b), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Benda-benda ini adalah bukti bisu dari perjuangan malam-malam panjang skripsi."
     },
     {
@@ -1947,6 +2262,11 @@
         "visual_description": "Wisudawan berjas memegang ijazah berjalan di bawah atap beton miring gedung modern.",
         "implied_sound": "Langkah tegap bergema di bawah beton",
         "implied_season": "Siang hari berawan"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#D5DCD6, #2C3E50), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Melangkah menembus batas akhir kampus, bersiap menaklukkan tantangan dunia luar."
     },
@@ -1978,6 +2298,11 @@
         "implied_sound": "Tawa renyah bersama di studio",
         "implied_season": "Siang hari cerah"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#4A3B32, #F5EBE6), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Karena kelulusan terbaik dirayakan dengan tawa lepas bersama keluarga."
     },
     {
@@ -2007,6 +2332,11 @@
         "visual_description": "Pemuda berambut cokelat dengan setelan jas biru berselempang putih berdiri tegak di depan tiang pilar marmer putih.",
         "implied_sound": "Sorakan ucapan selamat di sekitar halaman studio",
         "implied_season": "Pagi hari cerah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#ECEFF1, #2C3E50), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Gelar di pundak ini adalah janji awal untuk mengabdi pada kebaikan."
     },
@@ -2038,6 +2368,11 @@
         "implied_sound": "Helaan napas tenang dan hening",
         "implied_season": "Sore hari hangat"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#D5C5B5, #2C1C12), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Close-Up (MCU) dengan kedalaman ruang sempit (shallow depth of field) untuk efek intim.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Di dalam matamu, aku menemukan rumah tempat semua perjuangan perkuliahan ini berakhir dengan damai."
     },
     {
@@ -2067,6 +2402,11 @@
         "visual_description": "Wisudawan bertoga berjalan diapit orang tuanya yang tersenyum mengenakan batik dan kebaya serba putih.",
         "implied_sound": "Langkah kaki santai dan tawa ramah di jalan beraspal",
         "implied_season": "Pagi hari yang sejuk"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#FFFFFF, #7F8C8D), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Setiap langkah kaki hari ini terasa ringan karena restu tulus yang mengiringi di kanan kiri."
     },
@@ -2098,6 +2438,11 @@
         "implied_sound": "Suara tawa lepas empat orang",
         "implied_season": "Sore hari cerah"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#C0392B, #ECEFF1), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Bersama mereka, dinding dingin kampus terasa hangat dan penuh warna."
     },
     {
@@ -2127,6 +2472,11 @@
         "visual_description": "Potret close-up setelan blazer hijau tua bertekstur kasar dengan dasi bergaris dan kacamata di saku dada.",
         "implied_sound": "Hening tenang ruangan tertutup",
         "implied_season": "Siang hari sejuk"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#2D4A3E, #D5C8B8), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Pakaian ini adalah zirah baru untuk pertempuran di dunia profesional pasca-kampus."
     },
@@ -2158,6 +2508,11 @@
         "implied_sound": "Desau angin dedaunan dan teriakan bebas wisudawan",
         "implied_season": "Siang hari cerah berawan"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#4A1E20, #ECEFF1), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Terima kasih untuk segalanya. Aku pamit untuk melangkah lebih jauh."
     },
     {
@@ -2187,6 +2542,11 @@
         "visual_description": "Kolase dua foto menampilkan sahabat bertoga berpose santai di atas tembok pembatas semen dekat kotak hydrant.",
         "implied_sound": "Tawa renyah sekelompok sahabat bertukar cerita",
         "implied_season": "Siang hari cerah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#C0392B, #7F8C8D), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Kotak hydrant ini berwarna merah menyala, persis seperti semangat persahabatan kita yang tak padam ditiup angin perpisahan."
     },
@@ -2218,6 +2578,11 @@
         "implied_sound": "Langkah kaki menggema lambat di lorong beton",
         "implied_season": "Sore hari sunyi"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #7F8C8D) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Dalam bayang-bayang ini, aku menata kembali semua teori yang pernah kupelajari."
     },
     {
@@ -2247,6 +2612,11 @@
         "visual_description": "Ibu tersenyum bangga membetulkan kalung wisuda anak perempuannya yang mengenakan kebaya krem berenda.",
         "implied_sound": "Bisikan lembut 'selamat ya nak' dari sang ibu",
         "implied_season": "Pagi hari wisuda yang sejuk"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#ECE9E2, #F1C40F), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Tangan lembut ibu adalah penopang tak terlihat di balik kesuksesan yang kuraih hari ini."
     },
@@ -2278,6 +2648,11 @@
         "implied_sound": "Bisikan suara tuntutan yang memekakkan telinga",
         "implied_season": "Malam hari kelam"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #FFFFFF) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Kapan kamu bekerja? Di mana kamu akan tinggal? Ribuan tanya mengepung jalannya."
     },
     {
@@ -2307,6 +2682,11 @@
         "visual_description": "Pemuda berjas bersandar di dinding disinari cahaya remang sementara banyak tangan menunjuk ke arahnya.",
         "implied_sound": "Derau statis di dalam kepala",
         "implied_season": "Malam hari kelam"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #FFFFFF) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Di sudut sepi ini, ia berjuang memaafkan ketidaksempurnaan dirinya."
     },
@@ -2338,6 +2718,11 @@
         "implied_sound": "Soundtrack anime perjuangan",
         "implied_season": "Sore hari penuh warna"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#F1C40F, #2C3E50), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Dua guru terbaik: yang mengajarkan cara belajar, dan yang mengajarkan cara bertarung."
     },
     {
@@ -2367,6 +2752,11 @@
         "visual_description": "Gambar sketsa perbandingan bentuk tubuh pria bertuliskan data berat badan dan massa otot.",
         "implied_sound": "Dentang beban besi di gym kampus",
         "implied_season": "Musim transisi"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#1E1E1E, #3A3A3A), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Mengubah tekanan skripsi menjadi energi otot di ruang latihan."
     },
@@ -2398,6 +2788,11 @@
         "implied_sound": "Alunan gitar akustik penutup film",
         "implied_season": "Senja musim kemarau"
       },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#E67E22, #2C3E50).",
+        "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
+      },
       "story_prompt": "Menutup buku hari ini, bersiap membuka lembaran baru esok pagi."
     },
     {
@@ -2427,6 +2822,11 @@
         "visual_description": "Siluet wisudawan memegang jubah bertoga berjalan di sepanjang peron kereta api saat senja.",
         "implied_sound": "Suara klakson kereta api dan deru mesin perlahan",
         "implied_season": "Senja musim hujan"
+      },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#2C3E50, #E67E22).",
+        "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
       "story_prompt": "Kereta ini membawa lebih dari sekadar tubuh; ia membawa semua mimpi masa muda."
     },
@@ -2458,6 +2858,11 @@
         "implied_sound": "Isak tangis bahagia yang tertahan",
         "implied_season": "Sore hari penuh haru"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#3E2723, #F5EBE0), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Low Angle, Wide Shot (WS) atau Full Shot (FS) untuk merangkul kebersamaan dengan kesan formal dan kokoh.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Ibu berkata, 'Semua lelahku hilang hari ini melihatmu memakai toga.'"
     },
     {
@@ -2487,6 +2892,11 @@
         "visual_description": "Wisudawan membelakangi kamera menaiki tangga beton di dalam gedung berkaca besar disinari cahaya matahari pagi.",
         "implied_sound": "Ketukan alas sepatu di anak tangga kayu stasiun",
         "implied_season": "Pagi hari cerah"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#ECEFF1, #37474F), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Setiap anak tangga yang kudaki membimbingku keluar dari labirin masa muda."
     },
@@ -2518,6 +2928,11 @@
         "implied_sound": "Suara angin waktu yang berputar cepat",
         "implied_season": "Siklus 7 tahun perjalanan"
       },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#2C3E50, #7F8C8D), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
+      },
       "story_prompt": "Jika kamu bisa berbisik pada dirimu di hari pertama kuliah, apa yang akan kamu katakan?"
     },
     {
@@ -2547,6 +2962,11 @@
         "visual_description": "Kolase menampilkan wisudawan berdiri di tempat yang sama di koridor dengan selisih waktu 7 tahun.",
         "implied_sound": "Detak waktu yang berdering pelan",
         "implied_season": "Sore hari hangat"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#2C3E50, #D35400), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Kita melangkah masuk sebagai pemimpi, dan melangkah keluar sebagai pemenang."
     },
@@ -2578,6 +2998,11 @@
         "implied_sound": "Suara jangkrik malam dan angin sepoi-sepoi",
         "implied_season": "Tengah malam wisuda"
       },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#000000, #FFFFFF) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "High Angle atau Eye Level Close-Up dengan low-key lighting untuk ekspresi kontemplatif yang dramatis.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
+      },
       "story_prompt": "Malam terakhir di sudut taman ini sebelum esok pagi membawa kita ke kota yang berbeda."
     },
     {
@@ -2607,6 +3032,11 @@
         "visual_description": "Mahasiswa bertoga berjalan menjauhi kamera di lorong bangunan pilar bergaya kolonial yang simetris.",
         "implied_sound": "Langkah kaki tunggal bergema di lorong pilar",
         "implied_season": "Sore hari hangat"
+      },
+      "photography_details": {
+        "color_grading": "Grading vintage ala film analog 35mm. Fade matte pada warna hitam (faded shadows), grain halus, tone warna agak kehijauan/teal (#D5C5B5, #2C3E50), serta highlight yang digulung lembut (soft roll-off).",
+        "technique_and_angle": "Eye Level, Medium Shot (MS) sejajar mata untuk menciptakan perspektif potret personal yang ramah.",
+        "suggested_settings": "Lensa 35mm f/2.0 | Aperture: f/2.8 | Shutter: 1/160s | ISO: 400 (karakter grain film yang optimal)"
       },
       "story_prompt": "Lorong simetris ini membentang panjang, menggambarkan jalan masa depan yang harus kutempuh."
     },
@@ -2638,6 +3068,11 @@
         "implied_sound": "Alunan musik syahdu dan desau angin senja",
         "implied_season": "Senja musim kemarau"
       },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#8E44AD, #D35400).",
+        "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
+      },
       "story_prompt": "Langit sore ini adalah lukisan terindah untuk menutup lembaran cerita kampus kita."
     },
     {
@@ -2667,6 +3102,11 @@
         "visual_description": "Ruang kelas kuliah kosong disinari berkas cahaya sore yang hangat dari samping.",
         "implied_sound": "Gema debu-debu beterbangan ditiup angin sepoi",
         "implied_season": "Akhir semester sore hari"
+      },
+      "photography_details": {
+        "color_grading": "Low-key grading dengan bayangan pekat (deep shadows), saturasi warna ditekan (desaturated), tone dingin kebiruan/kehijauan pada area shadow (#8A6D56, #E5D4C0) untuk nuansa sinematik melankolis.",
+        "technique_and_angle": "Top-Down (Flat Lay) atau Extreme Close-Up (ECU) menggunakan lensa makro 90mm f/2.8.",
+        "suggested_settings": "Lensa 50mm f/1.4 | Aperture: f/1.8 | Shutter: 1/125s | ISO: 800-1600 (low light sensitivity)"
       },
       "story_prompt": "Di bangku inilah semua id, kecemasan, dan persahabatan pernah lahir."
     },
@@ -2698,6 +3138,11 @@
         "implied_sound": "Suara kepakan sayap samar dan deru kota malam",
         "implied_season": "Senja musim hujan"
       },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#D35400, #1E3A8A).",
+        "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
+      },
       "story_prompt": "Kita melangkah keluar membawa naga impian masa kecil kita ke dunia nyata."
     },
     {
@@ -2727,6 +3172,11 @@
         "visual_description": "Wisudawan membelakangi kamera berjalan di aspal basah menuju matahari terbit yang megah.",
         "implied_sound": "Musik orkestra instrumental yang megah dan tenang",
         "implied_season": "Fajar musim kemarau"
+      },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#E67E22, #34495E).",
+        "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
       },
       "story_prompt": "Ini bukanlah akhir dari cerita, melainkan awal dari perjalanan yang sesungguhnya."
     },
@@ -2758,6 +3208,11 @@
         "implied_sound": "Petikan gitar akustik yang lambat",
         "implied_season": "Senja musim kemarau"
       },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#D35400, #1E2A38).",
+        "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
+      },
       "story_prompt": "Melangkah ke dunia yang tidak kita ketahui, dengan harapan yang membimbing di dada."
     },
     {
@@ -2788,6 +3243,11 @@
         "implied_sound": "Bisikan angin sore membawa petuah hangat",
         "implied_season": "Senja kelulusan"
       },
+      "photography_details": {
+        "color_grading": "Grading hangat (warm/golden tone) dengan dominasi temperatur tinggi (K 5500-6000), saturasi jingga/emas yang pekat pada highlight, serta shadow lembut kecokelatan (#D35400, #2C3E50).",
+        "technique_and_angle": "Low Angle, Backlit Medium Shot untuk menciptakan efek rim light (garis cahaya) emas di bahu dan rambut subjek.",
+        "suggested_settings": "Lensa 85mm f/1.8 | Aperture: f/2.0 | Shutter: 1/250s | ISO: 100 (memaksimalkan ambient sore hari)"
+      },
       "story_prompt": "Selamat. Kamu telah belajar banyak. Sekarang ajarkan kebaikan itu kepada dunia."
     },
     {
@@ -2817,6 +3277,11 @@
         "visual_description": "Foto flash buram malam hari memperlihatkan sahabat merangkul pundak satu sama lain sambil tertawa lebar.",
         "implied_sound": "Tawa lepas yang menggema di jalan sepi tengah malam",
         "implied_season": "Tengah malam wisuda"
+      },
+      "photography_details": {
+        "color_grading": "High contrast grading dengan direct flash lighting. Warna kulit natural namun tersaturasi kuat, bayangan tajam di belakang subjek, warna latar belakang diredupkan untuk fokus subjek (#000000, #FFFFFF).",
+        "technique_and_angle": "Eye Level, Wide Shot (WS) sejajar mata untuk memastikan ketajaman fokus yang merata pada seluruh anggota grup.",
+        "suggested_settings": "Lensa 35mm f/1.8 | Aperture: f/4.0 | Shutter: 1/160s (flash sync) | Eksternal Flash 1/16 power | ISO: 200"
       },
       "story_prompt": "Biar dunia luar berisik, malam ini kita tertawa bersama seolah waktu telah berhenti."
     }
