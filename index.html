@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moodboard AI Curator</title>
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Loader Awal -->
+    <div id="loader-screen" class="loader-screen">
+        <div class="spinner"></div>
+        <p class="loader-text">Memuat Galeri Kurasi...</p>
+    </div>
+
+    <!-- Container Utama -->
+    <div class="app-container">
+        
+        <!-- Header Editorial -->
+        <header class="editorial-header">
+            <div class="brand">MOODBOARD CURATOR // WISUDA</div>
+            <h1 id="collection-theme" class="collection-theme">Memuat Tema...</h1>
+            <p id="collection-summary" class="collection-summary">Menganalisis dan menyusun narasi estetika...</p>
+            
+            <details class="story-details">
+                <summary>Baca Narasi Koleksi</summary>
+                <div id="collection-story" class="collection-story-content">
+                    Memuat cerita narasi...
+                </div>
+            </details>
+        </header>
+
+        <!-- Bar Navigasi & Pencarian (Sticky) -->
+        <div class="controls-bar">
+            <!-- Search Input -->
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="Cari memori, tag, suasana..." aria-label="Cari gambar">
+                <span class="search-icon">🔍</span>
+            </div>
+
+            <!-- Kategori Navigation (Editorial style) -->
+            <nav class="categories-nav" id="categories-nav">
+                <button class="cat-btn active" data-category="all">00. Semua Koleksi</button>
+                <!-- Kategori dinamis akan di-render di sini -->
+            </nav>
+        </div>
+
+        <!-- Masonry Grid Galeri -->
+        <main class="gallery-wrapper">
+            <div class="masonry-grid" id="masonry-grid">
+                <!-- Item galeri dinamis akan di-render di sini -->
+            </div>
+            <div id="empty-state" class="empty-state hidden">
+                <p>Tidak ada memori yang cocok dengan pencarian Anda.</p>
+            </div>
+        </main>
+    </div>
+
+    <!-- Slide-out Side Panel (Drawer Detail) -->
+    <div id="detail-drawer" class="detail-drawer" aria-hidden="true">
+        <div class="drawer-overlay" id="drawer-overlay"></div>
+        <div class="drawer-content">
+            <button class="close-btn" id="close-drawer" aria-label="Tutup Detail">&times;</button>
+            
+            <div class="drawer-layout">
+                <div class="drawer-image-section">
+                    <img id="drawer-img" src="" alt="Detail Gambar">
+                </div>
+                
+                <div class="drawer-info-section">
+                    <div class="drawer-meta-header">
+                        <span id="drawer-category" class="meta-badge category-badge">Kategori</span>
+                        <span id="drawer-tone" class="meta-badge tone-badge">Suasana</span>
+                    </div>
+                    
+                    <h2 id="drawer-title" class="drawer-title">Judul Gambar</h2>
+                    <p id="drawer-desc" class="drawer-desc">Deskripsi puitis gambar...</p>
+                    
+                    <hr class="drawer-divider">
+
+                    <!-- Sensory Details -->
+                    <div class="info-group">
+                        <h3>Interpretasi Sensorik</h3>
+                        <div class="sensory-grid">
+                            <div class="sensory-item">
+                                <span class="sensory-icon">👁️</span>
+                                <div class="sensory-text">
+                                    <strong>Visual</strong>
+                                    <p id="drawer-visual-desc">Deskripsi visual mentah...</p>
+                                </div>
+                            </div>
+                            <div class="sensory-item">
+                                <span class="sensory-icon">🔊</span>
+                                <div class="sensory-text">
+                                    <strong>Suara Tersirat</strong>
+                                    <p id="drawer-sound">Suara...</p>
+                                </div>
+                            </div>
+                            <div class="sensory-item">
+                                <span class="sensory-icon">📅</span>
+                                <div class="sensory-text">
+                                    <strong>Waktu/Musim</strong>
+                                    <p id="drawer-season">Waktu...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Palet Warna Dominan -->
+                    <div class="info-group">
+                        <h3>Palet Warna Dominan</h3>
+                        <div class="color-palette" id="drawer-colors">
+                            <!-- Warna dinamis -->
+                        </div>
+                    </div>
+
+                    <!-- Aesthetic Tags -->
+                    <div class="info-group">
+                        <h3>Tag Estetika</h3>
+                        <div class="tags-container" id="drawer-tags">
+                            <!-- Tags dinamis -->
+                        </div>
+                    </div>
+
+                    <!-- Story Prompt -->
+                    <div class="story-prompt-box">
+                        <h4>Pemantik Cerita</h4>
+                        <p id="drawer-story-prompt">"..."</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js" type="module"></script>
+</body>
+</html>
