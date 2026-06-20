@@ -1726,9 +1726,9 @@ def main():
 
     # 3. Export final JSON
     final_json = {
-        "collection_theme": "Transisi Sinematik & Nostalgia Sore Hari",
-        "collection_summary": "Koleksi kurasi visual wisuda yang memadukan kehangatan kenangan kampus, persahabatan karib, dan ketidakpastian langkah menuju masa depan yang baru.",
-        "collection_story": "Di antara sudut-sudut perpustakaan yang sunyi, lembaran buku yang kusam, dan canda tawa hangat di bawah sinar matahari sore, lembaran moodboard ini adalah saksi dari sebuah akhir.\n\nKita memulai perjalanan ini sebagai orang asing yang membawa mimpi masing-masing, berjuang dalam revisi skripsi yang tak berujung, hingga akhirnya berdiri di gerbang kelulusan dengan jubah toga hitam yang berat.\n\nMatahari terbenam menandai babak yang ditutup, kereta api menanti di peron stasiun untuk membawa kita ke kota masing-masing, namun kenangan tentang tawa malam hari dan dukungan hangat keluarga akan menetap selamanya.",
+        "collection_theme": "Koleksi Moodboard Wisuda & Referensi Foto Kelulusan",
+        "collection_summary": "Panduan referensi visual, komposisi, subjek, dan teknik fotografi untuk dokumentasi kelulusan (wisuda).",
+        "collection_story": "Moodboard ini dikurasi secara sistematis untuk mempermudah pemilihan konsep foto wisuda. Terbagi berdasarkan kategori subjek (Solo, Keluarga, Teman, Pasangan, Detail Objek) serta vibes/teknik visual (Sunset/Golden Hour, Motion Blur, Dark & Moody, Flash Photography, Film/Analog). Gunakan koleksi ini sebagai acuan pose, tata cahaya, wardrobe, dan sudut pandang kamera saat sesi pemotretan berlangsung.",
         "categories": categories,
         "images": renamed_images
     }

@@ -205,11 +205,12 @@ body {
     opacity: 0.5;
 }
 
-/* Grid Size Controls */
+/* Grid Size & Layout Controls */
 .grid-size-controls {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 16px;
+    flex-wrap: wrap;
 }
 
 .control-label {
@@ -220,6 +221,7 @@ body {
     color: var(--text-muted);
 }
 
+.layout-btn-group,
 .grid-btn-group {
     display: flex;
     border: 1px solid var(--border-color);
@@ -228,6 +230,7 @@ body {
     background-color: var(--bg-secondary);
 }
 
+.layout-btn,
 .grid-btn {
     background: none;
     border: none;
@@ -240,11 +243,13 @@ body {
     transition: var(--transition-smooth);
 }
 
+.layout-btn:hover,
 .grid-btn:hover {
     color: var(--text-primary);
     background-color: var(--border-color);
 }
 
+.layout-btn.active,
 .grid-btn.active {
     background-color: var(--accent);
     color: var(--bg-primary);
@@ -388,6 +393,58 @@ body {
     .masonry-grid.grid-lg {
         column-count: 2;
     }
+}
+
+/* Flat/Aligned Grid Layout (Lurus Rata) */
+.masonry-grid.layout-flat {
+    display: grid;
+    column-count: auto; /* Reset column count */
+    column-gap: 0;
+    gap: 24px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.masonry-grid.layout-flat.grid-sm {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 16px;
+}
+
+.masonry-grid.layout-flat.grid-md {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+}
+
+.masonry-grid.layout-flat.grid-lg {
+    grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+    gap: 32px;
+}
+
+.masonry-grid.layout-flat .gallery-item {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-bottom: 0;
+}
+
+.masonry-grid.layout-flat .img-wrapper {
+    aspect-ratio: 1 / 1; /* Enforce square alignment */
+    width: 100%;
+    overflow: hidden;
+}
+
+.masonry-grid.layout-flat .img-wrapper img {
+    height: 100%;
+    width: 100%;
+    max-height: none;
+    object-fit: cover;
+}
+
+/* Image Wrapper for General Layouts */
+.img-wrapper {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: var(--bg-secondary);
 }
 
 /* Gallery Item Card */

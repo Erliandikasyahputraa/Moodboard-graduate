@@ -8,7 +8,8 @@ let appState = {
     activeSubject: "all",
     activeVibe: "all",
     searchQuery: "",
-    gridSize: "md"
+    gridSize: "md",
+    layout: "masonry"
 };
 
 // DOM Elements
@@ -24,6 +25,7 @@ const searchInput = document.getElementById("search-input");
 const subjectFilters = document.getElementById("subject-filters");
 const vibeFilters = document.getElementById("vibe-filters");
 const gridBtnGroup = document.querySelector(".grid-btn-group");
+const layoutBtnGroup = document.querySelector(".layout-btn-group");
 
 // Drawer Elements
 const detailDrawer = document.getElementById("detail-drawer");
@@ -100,6 +102,12 @@ function renderGrid() {
     
     // Terapkan kelas ukuran grid ke elemen masonry
     masonryGrid.className = "masonry-grid";
+    
+    // Terapkan tata letak (masonry atau flat)
+    if (appState.layout === "flat") {
+        masonryGrid.classList.add("layout-flat");
+    }
+    
     if (appState.gridSize === "sm") {
         masonryGrid.classList.add("grid-sm");
     } else if (appState.gridSize === "lg") {
@@ -142,7 +150,9 @@ function renderGrid() {
             const categoryName = categoryObj ? categoryObj.name : "Uncategorized";
 
             item.innerHTML = `
-                <img src="${IMAGE_BASE_PATH}${img.filename}" alt="${img.title || 'Moodboard item'}" loading="lazy">
+                <div class="img-wrapper">
+                    <img src="${IMAGE_BASE_PATH}${img.filename}" alt="${img.title || 'Moodboard item'}" loading="lazy">
+                </div>
                 <div class="item-info-overlay">
                     <h3 class="item-title">${img.title || 'Tanpa Judul'}</h3>
                     <span class="item-category">${categoryName}</span>
@@ -257,6 +267,18 @@ function setupEventListeners() {
         btn.classList.add("active");
         
         appState.gridSize = btn.getAttribute("data-size");
+        renderGrid();
+    });
+
+    // 3.5. Layout Controls
+    layoutBtnGroup.addEventListener("click", (e) => {
+        const btn = e.target.closest(".layout-btn");
+        if (!btn) return;
+        
+        layoutBtnGroup.querySelectorAll(".layout-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        
+        appState.layout = btn.getAttribute("data-layout");
         renderGrid();
     });
     
