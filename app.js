@@ -381,27 +381,6 @@ function setupEventListeners() {
         const isCollapsed = filtersContainer.classList.contains("collapsed");
         setFiltersCollapsed(!isCollapsed);
     });
-
-    // Smart Scroll: Sembunyikan saat scroll bawah, tunjukkan saat scroll atas
-    let lastScrollTop = 0;
-    window.addEventListener("scroll", () => {
-        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        
-        // Hanya picu collapse jika scroll melebihi batas header editorial (200px)
-        if (scrollTop > 200) {
-            if (scrollTop > lastScrollTop) {
-                // Scroll Ke Bawah -> Sembunyikan
-                setFiltersCollapsed(true);
-            } else {
-                // Scroll Ke Atas -> Tampilkan
-                setFiltersCollapsed(false);
-            }
-        } else if (scrollTop <= 50) {
-            // Kembali ke atas -> Selalu Tampilkan
-            setFiltersCollapsed(false);
-        }
-        lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
-    }, { passive: true });
 }
 
 // Jalankan saat dokumen siap
