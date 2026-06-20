@@ -45,6 +45,12 @@
         "Existential",
         "Sinematik"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
       "sensory_details": {
         "visual_description": "Siluet delapan pria berjas mengelilingi lubang dari atas.",
         "implied_sound": "Hening yang memekakkan",
@@ -68,6 +74,12 @@
         "cinematic",
         "soft focus",
         "nature"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Wajah perempuan kabur di depan, pria berjas di kejauhan.",
@@ -93,6 +105,12 @@
         "indonesia",
         "formal"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Pas foto formal berlatar merah, mengenakan peci hitam dan jas.",
         "implied_sound": "Suara jepretan kamera studio tua",
@@ -116,6 +134,12 @@
         "meme",
         "uin",
         "humor"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Suntingan foto pria berjaket hijau digambar tangan menunjuk gerbang UIN.",
@@ -141,6 +165,12 @@
         "meme",
         "stress"
       ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Patrick Star memegang pedang di samping Squidward yang terbungkus perban di kursi roda.",
         "implied_sound": "Musik dramatis kartun",
@@ -164,6 +194,12 @@
         "black-and-white",
         "candid",
         "friendship"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Foto monokrom wisudawan merapikan topi toga temannya.",
@@ -189,6 +225,12 @@
         "empty",
         "sadness"
       ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Deretan kursi lipat putih dengan mawar di atasnya.",
         "implied_sound": "Desir angin sepoi-sepoi",
@@ -212,6 +254,12 @@
         "silhouette",
         "glow",
         "citylight"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Siluet pria menatap siluet wanita yang bercahaya putih benderang.",
@@ -237,6 +285,12 @@
         "sleep",
         "exhausted"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
       "sensory_details": {
         "visual_description": "Seorang pria tertidur di meja perpustakaan dengan buku di atas wajahnya.",
         "implied_sound": "Detik jam dinding perpustakaan",
@@ -260,6 +314,12 @@
         "congratulations",
         "supportive",
         "hijab"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Wisudawati tersenyum dikelilingi tangan-tangan yang mengacungkan jempol.",
@@ -285,6 +345,12 @@
         "toga",
         "reflection"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
       "sensory_details": {
         "visual_description": "Pria duduk di kursi menatap ke depan, di sampingnya ada toga tergantung.",
         "implied_sound": "Kesunyian studio foto",
@@ -308,6 +374,12 @@
         "celebration",
         "graduation",
         "freedom"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Tiga lulusan membelakangi gedung kampus, mengangkat tangan mereka.",
@@ -333,6 +405,12 @@
         "graduation-cap",
         "candid"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Wisudawan menutupi wajahnya dengan kamera di depan gedung kolonial putih.",
         "implied_sound": "Klik mekanis kamera",
@@ -356,6 +434,12 @@
         "portrait",
         "cinematic",
         "melancholy"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Potret monokrom pemuda berkacamata menunduk dengan jas hitam.",
@@ -381,6 +465,12 @@
         "box",
         "fun"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Pria bersandar di tangga semen dengan kardus merah di kepalanya.",
         "implied_sound": "Derau statis televisi",
@@ -405,12 +495,18 @@
         "dark",
         "illustration"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
       "sensory_details": {
         "visual_description": "Ilustrasi mata besar di atas kerumunan orang banyak dalam kegelapan.",
         "implied_sound": "Dengung frekuensi rendah",
         "implied_season": "Malam tanpa bintang"
       },
-      "story_prompt": "Siapa yang mengawasi kita saat kita berjalan ke masa depan yang tak pasti?",
+      "story_prompt": "Siapa yang mengawasi kita saat kita berjalan to masa depan yang tak pasti?",
       "id": "b88fbc3165b243248b47aa6d42243569",
       "filename": "3f81db60c346e7198fe1644f11ca1e85.jpg"
     },
@@ -428,6 +524,12 @@
         "beach",
         "minimalist",
         "sad-text"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Siluet hitam dan siluet putih bercahaya duduk di pantai abu-abu.",
@@ -453,6 +555,12 @@
         "loneliness",
         "stark"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Pria duduk membelakangi kamera di tengah barisan kursi kosong yang sangat banyak.",
         "implied_sound": "Angin kosong berhembus di lapangan luas",
@@ -476,6 +584,12 @@
         "gallery",
         "museum",
         "silhouette"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Pria berdiri membelakangi di galeri seni menatap tiga foto di dinding putih.",
@@ -501,6 +615,12 @@
         "memories",
         "vintage"
       ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Kolase berbagai foto detail kelulusan dan potret wisudawan.",
         "implied_sound": "Campuran suara tawa dan jepretan kamera",
@@ -524,6 +644,12 @@
         "shadows",
         "empty-room",
         "nostalgic"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Kursi kayu di sudut ruangan kosong dengan bayangan jendela di dinding.",
@@ -549,6 +675,12 @@
         "sarjana",
         "funny"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
       "sensory_details": {
         "visual_description": "Wisudawan berlari di trek atletik biru dengan jubah toga merah terbang.",
         "implied_sound": "Derap langkah kaki cepat dan teriakan semangat",
@@ -572,6 +704,12 @@
         "friends",
         "aesthetic",
         "orange-wall"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Pria dan wanita bertoga berpose di depan dinding ubin merah bata jingga.",
@@ -597,6 +735,12 @@
         "minimalist",
         "geometric"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
       "sensory_details": {
         "visual_description": "Foto high-angle wisudawan berdiri dikelilingi bayangan garis-garis geometris besar.",
         "implied_sound": "Gema langkah kaki pelan",
@@ -621,6 +765,12 @@
         "library",
         "studying"
       ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Dua orang bertoga menyembunyikan wajah di balik buku tebal.",
         "implied_sound": "Lembaran buku yang dibalik lambat",
@@ -631,10 +781,40 @@
       "filename": "55b70d5858667d38ada1038a360ff077.jpg"
     },
     {
-      "title": "Momen Refleksi #26",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana lelah tapi bahagia.",
-      "category_id": "found-family",
-      "tone": "Lelah tapi Bahagia",
+      "title": "Momen Wisuda #26",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#1A1A1A",
+        "#8C7A6B",
+        "#FFFFFF"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "cc09957d08413811ed42b10e2348e109",
+      "filename": "57b424cc0a753020edfb6085dd272ce2.jpg"
+    },
+    {
+      "title": "Momen Wisuda #27",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#2C3E50",
         "#7F8C8D",
@@ -642,39 +822,21 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "cc09957d08413811ed42b10e2348e109",
-      "filename": "57b424cc0a753020edfb6085dd272ce2.jpg"
-    },
-    {
-      "title": "Momen Refleksi #27",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kesunyian indah.",
-      "category_id": "daily-struggle",
-      "tone": "Kesunyian Indah",
-      "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "96bc513b053d8a94d16dd6031aa0cab4",
       "filename": "59d17bb36a44204eaaca6f73f7a006fc (1).jpg"
     },
@@ -693,6 +855,12 @@
         "congratulations",
         "smile"
       ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Wisudawati tersenyum di tengah jepretan layar-layar handphone di depannya.",
         "implied_sound": "Suara tawa ramah dan klik kamera handphone",
@@ -703,106 +871,10 @@
       "filename": "5cd30ad26b80a6f24fba5cbb6bf76b77 (1).jpg"
     },
     {
-      "title": "Momen Refleksi #29",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kebebasan jiwa.",
+      "title": "Momen Wisuda #29",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
       "category_id": "silent-reflection",
-      "tone": "Kebebasan Jiwa",
-      "dominant_colors": [
-        "#1A1A1A",
-        "#8C7A6B",
-        "#FFFFFF"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "961bf02274f92597f235c8828464a6c0",
-      "filename": "5cf9b0cb8aa35b5286e2e7ddd00c951f.jpg"
-    },
-    {
-      "title": "Momen Refleksi #30",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Tekanan Masa Depan",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "ab241d4ee15a8eec9865cfcde25c1928",
-      "filename": "6475b5429a06b431528edacdb2c35973 (1).jpg"
-    },
-    {
-      "title": "Momen Refleksi #31",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kehangatan keluarga.",
-      "category_id": "found-family",
-      "tone": "Kehangatan Keluarga",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "704a01cdc510920f48f99ba606d8449d",
-      "filename": "67b1c36a203744c175bea12a95bbed3a.jpg"
-    },
-    {
-      "title": "Momen Refleksi #32",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana nostalgia sore hari.",
-      "category_id": "daily-struggle",
-      "tone": "Nostalgia Sore Hari",
-      "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "2411ea93a68906408f12417c3829477d",
-      "filename": "6899e12c28498bc890876d9694710bf9 (1).jpg"
-    },
-    {
-      "title": "Momen Refleksi #33",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana harapan manis.",
-      "category_id": "into-the-unknown",
-      "tone": "Harapan Manis",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#D35400",
         "#2C3E50",
@@ -810,15 +882,141 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "961bf02274f92597f235c8828464a6c0",
+      "filename": "5cf9b0cb8aa35b5286e2e7ddd00c951f.jpg"
+    },
+    {
+      "title": "Momen Wisuda #30",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "ab241d4ee15a8eec9865cfcde25c1928",
+      "filename": "6475b5429a06b431528edacdb2c35973 (1).jpg"
+    },
+    {
+      "title": "Momen Wisuda #31",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#1A1A1A",
+        "#8C7A6B",
+        "#FFFFFF"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "704a01cdc510920f48f99ba606d8449d",
+      "filename": "67b1c36a203744c175bea12a95bbed3a.jpg"
+    },
+    {
+      "title": "Momen Wisuda #32",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "2411ea93a68906408f12417c3829477d",
+      "filename": "6899e12c28498bc890876d9694710bf9 (1).jpg"
+    },
+    {
+      "title": "Momen Wisuda #33",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "2411ea93a68906408f12417c3829477d",
       "filename": "6899e12c28498bc890876d9694710bf9.jpg"
     },
@@ -836,6 +1034,12 @@
         "parents",
         "batik",
         "family"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Kedua orang tua tersenyum di balkon bangunan kolonial kampus.",
@@ -861,6 +1065,12 @@
         "collage",
         "existential"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
       "sensory_details": {
         "visual_description": "Siluet hitam manusia berjalan di atas halaman koran B&W penuh tulisan padat.",
         "implied_sound": "Kertas koran yang robek perlahan",
@@ -871,178 +1081,100 @@
       "filename": "6cabe468310ee555c53ea61349339d29.jpg"
     },
     {
-      "title": "Momen Refleksi #36",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana perpisahan syahdu.",
-      "category_id": "found-family",
-      "tone": "Perpisahan Syahdu",
+      "title": "Momen Wisuda #36",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
+        "#1A1A1A",
+        "#8C7A6B",
+        "#FFFFFF"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "2bf4597385bf7bf2afc4e225cb50b3ce",
       "filename": "70eec77da5076f7882c7a5770d4e8038.jpg"
     },
     {
-      "title": "Momen Refleksi #37",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kebebasan jiwa.",
-      "category_id": "daily-struggle",
-      "tone": "Kebebasan Jiwa",
+      "title": "Momen Wisuda #37",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "345d9cbc5e735b4cc6af25db5e287372",
       "filename": "7437859c74387216eadcbc3393526592.jpg"
     },
     {
-      "title": "Momen Refleksi #38",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
-      "category_id": "into-the-unknown",
-      "tone": "Tekanan Masa Depan",
+      "title": "Momen Wisuda #38",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#D35400",
         "#2C3E50",
-        "#ECF0F1"
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "fc010d62b8e2ff92093639cb77420496",
       "filename": "76de512c52f2d3958934b69cedcea5c7.jpg"
     },
     {
-      "title": "Momen Refleksi #39",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kehangatan keluarga.",
+      "title": "Momen Wisuda #39",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
       "category_id": "silent-reflection",
-      "tone": "Kehangatan Keluarga",
-      "dominant_colors": [
-        "#1A1A1A",
-        "#8C7A6B",
-        "#FFFFFF"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "bd1d0817ddbf717a8fc04f8be0fdb8e4",
-      "filename": "7cc78a7ae1faedf49d08d8ec0ecc2d31.jpg"
-    },
-    {
-      "title": "Momen Refleksi #40",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana nostalgia sore hari.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Nostalgia Sore Hari",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "3867ee764c22ddd10ca88c074636b80e",
-      "filename": "7ed4b9a42c31f525fd120c026f6ea6fa.jpg"
-    },
-    {
-      "title": "Momen Refleksi #41",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana harapan manis.",
-      "category_id": "found-family",
-      "tone": "Harapan Manis",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "acee541b7db81d8439f0ae275ff0e1ac",
-      "filename": "85c163a9e2095fe7dbe039f533be48ba.jpg"
-    },
-    {
-      "title": "Momen Refleksi #42",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana lelah tapi bahagia.",
-      "category_id": "daily-struggle",
-      "tone": "Lelah tapi Bahagia",
-      "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "7cd25131a2776ea310cacd9aca98d9ab",
-      "filename": "89eb490a473ca334567f12c8a3a2a06a.jpg"
-    },
-    {
-      "title": "Momen Refleksi #43",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kesunyian indah.",
-      "category_id": "into-the-unknown",
-      "tone": "Kesunyian Indah",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#D35400",
         "#2C3E50",
@@ -1050,23 +1182,59 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "f98199a511a8c6e9353e66dc3105f56f",
-      "filename": "91c711ab6dacc848b0f515d648cd5488.jpg"
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "bd1d0817ddbf717a8fc04f8be0fdb8e4",
+      "filename": "7cc78a7ae1faedf49d08d8ec0ecc2d31.jpg"
     },
     {
-      "title": "Momen Refleksi #44",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana perpisahan syahdu.",
+      "title": "Momen Wisuda #40",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
       "category_id": "silent-reflection",
-      "tone": "Perpisahan Syahdu",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "3867ee764c22ddd10ca88c074636b80e",
+      "filename": "7ed4b9a42c31f525fd120c026f6ea6fa.jpg"
+    },
+    {
+      "title": "Momen Wisuda #41",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#1A1A1A",
         "#8C7A6B",
@@ -1074,15 +1242,111 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "acee541b7db81d8439f0ae275ff0e1ac",
+      "filename": "85c163a9e2095fe7dbe039f533be48ba.jpg"
+    },
+    {
+      "title": "Momen Wisuda #42",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "7cd25131a2776ea310cacd9aca98d9ab",
+      "filename": "89eb490a473ca334567f12c8a3a2a06a.jpg"
+    },
+    {
+      "title": "Momen Wisuda #43",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "f98199a511a8c6e9353e66dc3105f56f",
+      "filename": "91c711ab6dacc848b0f515d648cd5488.jpg"
+    },
+    {
+      "title": "Momen Wisuda #44",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#D35400",
+        "#2C3E50",
+        "#ECF0F1"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "9aca63964c2a06bcba22d67d0991124d",
       "filename": "939587bbdb4fe9248625c775603811b1.jpg"
     },
@@ -1101,6 +1365,12 @@
         "illustration",
         "hope"
       ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Ksatria berzirah mengangkat mawar kuning dengan tulisan Korea di sampingnya.",
         "implied_sound": "Petikan kecapi yang lembut dan sunyi",
@@ -1111,178 +1381,100 @@
       "filename": "9420d7f1d216cc6db5d7313c9c8bc184.jpg"
     },
     {
-      "title": "Momen Refleksi #46",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
-      "category_id": "found-family",
-      "tone": "Tekanan Masa Depan",
+      "title": "Momen Wisuda #46",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
+        "#1A1A1A",
+        "#8C7A6B",
+        "#FFFFFF"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "af215b2c544103d49cabc5b2970ca23b",
       "filename": "97da9eaadf859528879e682dd574df1c (1).jpg"
     },
     {
-      "title": "Momen Refleksi #47",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kehangatan keluarga.",
-      "category_id": "daily-struggle",
-      "tone": "Kehangatan Keluarga",
+      "title": "Momen Wisuda #47",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "cde423d79fd16feb72b5102487218aee",
       "filename": "99f00d18294d2eb763476dd32c9a69ad.jpg"
     },
     {
-      "title": "Momen Refleksi #48",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana nostalgia sore hari.",
-      "category_id": "into-the-unknown",
-      "tone": "Nostalgia Sore Hari",
+      "title": "Momen Wisuda #48",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#D35400",
         "#2C3E50",
-        "#ECF0F1"
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "bdae9f985b09518e33afcb464ba01772",
       "filename": "a04dcded8a7496cd11361d8d37dc0521 (1).jpg"
     },
     {
-      "title": "Momen Refleksi #49",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana harapan manis.",
+      "title": "Momen Wisuda #49",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
       "category_id": "silent-reflection",
-      "tone": "Harapan Manis",
-      "dominant_colors": [
-        "#1A1A1A",
-        "#8C7A6B",
-        "#FFFFFF"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "aa1fb6431e879d26028dca63170d6d53",
-      "filename": "a09f256a6fbf4a0562f95465f926b86b (1).jpg"
-    },
-    {
-      "title": "Momen Refleksi #50",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana lelah tapi bahagia.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Lelah tapi Bahagia",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "aa1fb6431e879d26028dca63170d6d53",
-      "filename": "a09f256a6fbf4a0562f95465f926b86b.jpg"
-    },
-    {
-      "title": "Momen Refleksi #51",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kesunyian indah.",
-      "category_id": "found-family",
-      "tone": "Kesunyian Indah",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "bec8e5c2d2685047ed20a6c07f5ae693",
-      "filename": "a14c8939d462023622ae7b5a893617de.jpg"
-    },
-    {
-      "title": "Momen Refleksi #52",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana perpisahan syahdu.",
-      "category_id": "daily-struggle",
-      "tone": "Perpisahan Syahdu",
-      "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "15d5aaf58688f9859da7467249da7394",
-      "filename": "a1700396520dd319a05bd682a46b4747.jpg"
-    },
-    {
-      "title": "Momen Refleksi #53",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kebebasan jiwa.",
-      "category_id": "into-the-unknown",
-      "tone": "Kebebasan Jiwa",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#D35400",
         "#2C3E50",
@@ -1290,23 +1482,59 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "1475a9288929608dcc857124e9e54209",
-      "filename": "a3d7b5d119154d38cb093cd3255796a0.jpg"
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "aa1fb6431e879d26028dca63170d6d53",
+      "filename": "a09f256a6fbf4a0562f95465f926b86b (1).jpg"
     },
     {
-      "title": "Momen Refleksi #54",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
+      "title": "Momen Wisuda #50",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
       "category_id": "silent-reflection",
-      "tone": "Tekanan Masa Depan",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "aa1fb6431e879d26028dca63170d6d53",
+      "filename": "a09f256a6fbf4a0562f95465f926b86b.jpg"
+    },
+    {
+      "title": "Momen Wisuda #51",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#1A1A1A",
         "#8C7A6B",
@@ -1314,23 +1542,119 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "bec8e5c2d2685047ed20a6c07f5ae693",
+      "filename": "a14c8939d462023622ae7b5a893617de.jpg"
+    },
+    {
+      "title": "Momen Wisuda #52",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "15d5aaf58688f9859da7467249da7394",
+      "filename": "a1700396520dd319a05bd682a46b4747.jpg"
+    },
+    {
+      "title": "Momen Wisuda #53",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "1475a9288929608dcc857124e9e54209",
+      "filename": "a3d7b5d119154d38cb093cd3255796a0.jpg"
+    },
+    {
+      "title": "Momen Wisuda #54",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#D35400",
+        "#2C3E50",
+        "#ECF0F1"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "bfb28fba710d74201742e14ef649b20f",
       "filename": "a7a892ad763f25d7886c93786ccfc551.jpg"
     },
     {
-      "title": "Momen Refleksi #55",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kehangatan keluarga.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Kehangatan Keluarga",
+      "title": "Momen Wisuda #55",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#2C3E50",
         "#7F8C8D",
@@ -1338,39 +1662,51 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "6f53cc1f07057d32576872a9ff98737a",
       "filename": "a9ddfd140017572f03facd9578292c49.jpg"
     },
     {
-      "title": "Momen Refleksi #56",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana nostalgia sore hari.",
-      "category_id": "found-family",
-      "tone": "Nostalgia Sore Hari",
+      "title": "Momen Wisuda #56",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
+        "#1A1A1A",
+        "#8C7A6B",
+        "#FFFFFF"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "c14e724d54c08201294345ce2b7777aa",
       "filename": "abd75a2611981ed374571265cbe83727.jpg"
     },
@@ -1389,6 +1725,12 @@
         "candid",
         "coming-of-age"
       ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
       "sensory_details": {
         "visual_description": "Foto motion-blur hitam putih siswa berseragam berlari di koridor sekolah berasitektur kolonial.",
         "implied_sound": "Suara langkah kaki riuh dan tawa lepas",
@@ -1399,130 +1741,40 @@
       "filename": "ac8121eb1a6d156e17cc37ccf7d4148a.jpg"
     },
     {
-      "title": "Momen Refleksi #58",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana lelah tapi bahagia.",
-      "category_id": "into-the-unknown",
-      "tone": "Lelah tapi Bahagia",
+      "title": "Momen Wisuda #58",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#D35400",
         "#2C3E50",
-        "#ECF0F1"
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "29792c6d3ffde0933172d6002dccab37",
       "filename": "add8cc569d8ce03de7726f4cd05a753f.jpg"
     },
     {
-      "title": "Momen Refleksi #59",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kesunyian indah.",
+      "title": "Momen Wisuda #59",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
       "category_id": "silent-reflection",
-      "tone": "Kesunyian Indah",
-      "dominant_colors": [
-        "#1A1A1A",
-        "#8C7A6B",
-        "#FFFFFF"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "3a045f2fc8796c40b36483a1b83d53a5",
-      "filename": "b01fa5f1b8fc979a379e53351c4a41bc.jpg"
-    },
-    {
-      "title": "Momen Refleksi #60",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana perpisahan syahdu.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Perpisahan Syahdu",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "20b48c82f3d1818843f4c3542514b679",
-      "filename": "b8c49d6e2cf8b9f31863484d5c8e7f3b (1).jpg"
-    },
-    {
-      "title": "Momen Refleksi #61",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kebebasan jiwa.",
-      "category_id": "found-family",
-      "tone": "Kebebasan Jiwa",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "20b48c82f3d1818843f4c3542514b679",
-      "filename": "b8c49d6e2cf8b9f31863484d5c8e7f3b.jpg"
-    },
-    {
-      "title": "Momen Refleksi #62",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
-      "category_id": "daily-struggle",
-      "tone": "Tekanan Masa Depan",
-      "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "4098ff50f8d23187195dcd0482682a37",
-      "filename": "baeafbbb1033a999abdf58bb6eb59dbc (1).jpg"
-    },
-    {
-      "title": "Momen Refleksi #63",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kehangatan keluarga.",
-      "category_id": "into-the-unknown",
-      "tone": "Kehangatan Keluarga",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#D35400",
         "#2C3E50",
@@ -1530,23 +1782,59 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "50e11442877e0a47d10827e1451b971d",
-      "filename": "c281fa1c175eca33d80a3f3d59986470 (2).jpg"
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "3a045f2fc8796c40b36483a1b83d53a5",
+      "filename": "b01fa5f1b8fc979a379e53351c4a41bc.jpg"
     },
     {
-      "title": "Momen Refleksi #64",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana nostalgia sore hari.",
+      "title": "Momen Wisuda #60",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
       "category_id": "silent-reflection",
-      "tone": "Nostalgia Sore Hari",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "20b48c82f3d1818843f4c3542514b679",
+      "filename": "b8c49d6e2cf8b9f31863484d5c8e7f3b (1).jpg"
+    },
+    {
+      "title": "Momen Wisuda #61",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#1A1A1A",
         "#8C7A6B",
@@ -1554,15 +1842,111 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "20b48c82f3d1818843f4c3542514b679",
+      "filename": "b8c49d6e2cf8b9f31863484d5c8e7f3b.jpg"
+    },
+    {
+      "title": "Momen Wisuda #62",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "4098ff50f8d23187195dcd0482682a37",
+      "filename": "baeafbbb1033a999abdf58bb6eb59dbc (1).jpg"
+    },
+    {
+      "title": "Momen Wisuda #63",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "50e11442877e0a47d10827e1451b971d",
+      "filename": "c281fa1c175eca33d80a3f3d59986470 (2).jpg"
+    },
+    {
+      "title": "Momen Wisuda #64",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#D35400",
+        "#2C3E50",
+        "#ECF0F1"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "7941a921ccad2ed110e4c2e0952a1e36",
       "filename": "d2d36e8fbf818256f4ffb84cf65a6996.jpg"
     },
@@ -1581,6 +1965,12 @@
         "family",
         "candid"
       ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Keluarga tersenyum lebar dengan pose tangan membentuk kacamata di depan mata mereka.",
         "implied_sound": "Tawa renyah bersama di studio",
@@ -1591,178 +1981,100 @@
       "filename": "d5ce117e8d5bec7e31aa55d872f982af.jpg"
     },
     {
-      "title": "Momen Refleksi #66",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana lelah tapi bahagia.",
-      "category_id": "found-family",
-      "tone": "Lelah tapi Bahagia",
+      "title": "Momen Wisuda #66",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
+        "#1A1A1A",
+        "#8C7A6B",
+        "#FFFFFF"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "e78c6ff109891a1164ba24d0f3af9376",
       "filename": "da039e4d32e19689eb83ec73c6d05ee8.jpg"
     },
     {
-      "title": "Momen Refleksi #67",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kesunyian indah.",
-      "category_id": "daily-struggle",
-      "tone": "Kesunyian Indah",
+      "title": "Momen Wisuda #67",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "71870186a4d84c7ddbbdf183e29933ec",
       "filename": "dd87336fd586fcb9309c7125167dd6b0.jpg"
     },
     {
-      "title": "Momen Refleksi #68",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana perpisahan syahdu.",
-      "category_id": "into-the-unknown",
-      "tone": "Perpisahan Syahdu",
+      "title": "Momen Wisuda #68",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#D35400",
         "#2C3E50",
-        "#ECF0F1"
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "a314816e9ae9f6f54149de317c1a4a79",
       "filename": "e6ca886d45ac2be0bd3e321f1be0c700.jpg"
     },
     {
-      "title": "Momen Refleksi #69",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kebebasan jiwa.",
+      "title": "Momen Wisuda #69",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
       "category_id": "silent-reflection",
-      "tone": "Kebebasan Jiwa",
-      "dominant_colors": [
-        "#1A1A1A",
-        "#8C7A6B",
-        "#FFFFFF"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "2c04218a75bd3f0c73aea77401753fac",
-      "filename": "eb704c907eb73e2f111176a4e8695d96.jpg"
-    },
-    {
-      "title": "Momen Refleksi #70",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Tekanan Masa Depan",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "a52d419d2ff0f445c6a9832b3a845afd",
-      "filename": "edf7d6e15c139f150a0ecb231d4436ac.jpg"
-    },
-    {
-      "title": "Momen Refleksi #71",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kehangatan keluarga.",
-      "category_id": "found-family",
-      "tone": "Kehangatan Keluarga",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "5f97d0f9dc10f12c968c7726a2771b77",
-      "filename": "ee4661e3338e2105a568b68402760954 (1).jpg"
-    },
-    {
-      "title": "Momen Refleksi #72",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana nostalgia sore hari.",
-      "category_id": "daily-struggle",
-      "tone": "Nostalgia Sore Hari",
-      "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "ac6689e223e47c9f831c2f65e83babdf",
-      "filename": "efe8311f656e32f8bffd78b9aca3c2ad.jpg"
-    },
-    {
-      "title": "Momen Refleksi #73",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana harapan manis.",
-      "category_id": "into-the-unknown",
-      "tone": "Harapan Manis",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#D35400",
         "#2C3E50",
@@ -1770,23 +2082,59 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "7cd17862c342b0a030da45fa18083c95",
-      "filename": "f367022cc7cc1cb7ca0e036fe826742c (1).jpg"
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "2c04218a75bd3f0c73aea77401753fac",
+      "filename": "eb704c907eb73e2f111176a4e8695d96.jpg"
     },
     {
-      "title": "Momen Refleksi #74",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana lelah tapi bahagia.",
+      "title": "Momen Wisuda #70",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
       "category_id": "silent-reflection",
-      "tone": "Lelah tapi Bahagia",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "a52d419d2ff0f445c6a9832b3a845afd",
+      "filename": "edf7d6e15c139f150a0ecb231d4436ac.jpg"
+    },
+    {
+      "title": "Momen Wisuda #71",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#1A1A1A",
         "#8C7A6B",
@@ -1794,23 +2142,119 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "5f97d0f9dc10f12c968c7726a2771b77",
+      "filename": "ee4661e3338e2105a568b68402760954 (1).jpg"
+    },
+    {
+      "title": "Momen Wisuda #72",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "ac6689e223e47c9f831c2f65e83babdf",
+      "filename": "efe8311f656e32f8bffd78b9aca3c2ad.jpg"
+    },
+    {
+      "title": "Momen Wisuda #73",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "7cd17862c342b0a030da45fa18083c95",
+      "filename": "f367022cc7cc1cb7ca0e036fe826742c (1).jpg"
+    },
+    {
+      "title": "Momen Wisuda #74",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#D35400",
+        "#2C3E50",
+        "#ECF0F1"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "7b01f0abc6c83a5a8ab00a25f74aa9a5",
       "filename": "f36ddb157bbd037f04f81b66f883f52d.jpg"
     },
     {
-      "title": "Momen Refleksi #75",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kesunyian indah.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Kesunyian Indah",
+      "title": "Momen Wisuda #75",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#2C3E50",
         "#7F8C8D",
@@ -1818,39 +2262,51 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "587ec6e0e2bb176a7952a382462ff485",
       "filename": "f7f5fcf97c0854047b6745c1b4d971ac (1).jpg"
     },
     {
-      "title": "Momen Refleksi #76",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana perpisahan syahdu.",
-      "category_id": "found-family",
-      "tone": "Perpisahan Syahdu",
+      "title": "Momen Wisuda #76",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
+        "#1A1A1A",
+        "#8C7A6B",
+        "#FFFFFF"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "587ec6e0e2bb176a7952a382462ff485",
       "filename": "f7f5fcf97c0854047b6745c1b4d971ac.jpg"
     },
@@ -1869,6 +2325,12 @@
         "berserk",
         "funny-edit"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Edit foto pemuda bertoga diapit oleh Koro-sensei kuning dan Guts berzirah hitam.",
         "implied_sound": "Soundtrack anime perjuangan",
@@ -1879,26 +2341,32 @@
       "filename": "file_000000000458720bbbd14891f6a25bb1.png"
     },
     {
-      "title": "Momen Refleksi #78",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
-      "category_id": "into-the-unknown",
-      "tone": "Tekanan Masa Depan",
+      "title": "Momen Wisuda #78",
+      "description": "Kenangan visual kelulusan bertema pasangan yang diproses dengan sentuhan estetika film.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#D35400",
         "#2C3E50",
-        "#ECF0F1"
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Pasangan"
+      ],
+      "technique_labels": [
+        "Film"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "0d02e64917dba6d37f6b3a36e5154397",
       "filename": "file_000000001254720ba5ef6bf74b933f00.png"
     },
@@ -1916,6 +2384,12 @@
         "sunset",
         "silhouette",
         "departure"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Siluet wisudawan membelakangi kamera berjalan di jalan beraspal saat matahari terbenam jingga keemasan.",
@@ -1941,6 +2415,12 @@
         "departure",
         "journey"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Sunset"
+      ],
       "sensory_details": {
         "visual_description": "Siluet wisudawan memegang jubah bertoga berjalan di sepanjang peron kereta api saat senja.",
         "implied_sound": "Suara klakson kereta api dan deru mesin perlahan",
@@ -1965,6 +2445,12 @@
         "tears",
         "family-love"
       ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Ibu memeluk anaknya yang mengenakan toga sambil membuka lembar album foto.",
         "implied_sound": "Isak tangis bahagia yang tertahan",
@@ -1975,26 +2461,32 @@
       "filename": "file_0000000021987206b99c5d52d9170d15.png"
     },
     {
-      "title": "Momen Refleksi #82",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana lelah tapi bahagia.",
-      "category_id": "daily-struggle",
-      "tone": "Lelah tapi Bahagia",
+      "title": "Momen Wisuda #82",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "36e4d2d425c203aba8cbf7c080733e20",
       "filename": "file_000000002da87206b30e1e5bb76b16d1.png"
     },
@@ -2013,6 +2505,12 @@
         "first-day",
         "last-day"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Film"
+      ],
       "sensory_details": {
         "visual_description": "Dua foto bersanding: mahasiswa beransel di kelas tua, dan mahasiswa bertoga tersenyum di balkon luar.",
         "implied_sound": "Suara angin waktu yang berputar cepat",
@@ -2023,10 +2521,70 @@
       "filename": "file_0000000032587209b0552a8a54f32bbf.png"
     },
     {
-      "title": "Momen Refleksi #84",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana perpisahan syahdu.",
+      "title": "Momen Wisuda #84",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
       "category_id": "silent-reflection",
-      "tone": "Perpisahan Syahdu",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#D35400",
+        "#2C3E50",
+        "#ECF0F1"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "1d93ed0056cbfff57ec09f20aafe6c9d",
+      "filename": "file_0000000057c472099c08ec8b7b2edff6.png"
+    },
+    {
+      "title": "Momen Wisuda #85",
+      "description": "Kenangan visual kelulusan bertema solo yang diproses dengan sentuhan estetika blur.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
+      "dominant_colors": [
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
+      ],
+      "aesthetic_tags": [
+        "graduation",
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Blur"
+      ],
+      "sensory_details": {
+        "visual_description": "Potret suasana wisuda di sudut kampus.",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
+        "implied_season": "Sore hari yang hangat"
+      },
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
+      "id": "23806a27327970d27ae61a90bc45e8e2",
+      "filename": "file_0000000059e87206bb7b902eaffb3991.png"
+    },
+    {
+      "title": "Momen Wisuda #86",
+      "description": "Kenangan visual kelulusan bertema keluarga yang diproses dengan sentuhan estetika dark.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
         "#1A1A1A",
         "#8C7A6B",
@@ -2034,87 +2592,51 @@
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Keluarga"
+      ],
+      "technique_labels": [
+        "Dark"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "1d93ed0056cbfff57ec09f20aafe6c9d",
-      "filename": "file_0000000057c472099c08ec8b7b2edff6.png"
-    },
-    {
-      "title": "Momen Refleksi #85",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kebebasan jiwa.",
-      "category_id": "bittersweet-farewell",
-      "tone": "Kebebasan Jiwa",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
-      "id": "23806a27327970d27ae61a90bc45e8e2",
-      "filename": "file_0000000059e87206bb7b902eaffb3991.png"
-    },
-    {
-      "title": "Momen Refleksi #86",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana tekanan masa depan.",
-      "category_id": "found-family",
-      "tone": "Tekanan Masa Depan",
-      "dominant_colors": [
-        "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
-      ],
-      "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
-      ],
-      "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
-      },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "22aaa6c661078e3e472f83ae13c76772",
       "filename": "file_000000005c647206a8ec3cde3655cc4b.png"
     },
     {
-      "title": "Momen Refleksi #87",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kehangatan keluarga.",
-      "category_id": "daily-struggle",
-      "tone": "Kehangatan Keluarga",
+      "title": "Momen Wisuda #87",
+      "description": "Kenangan visual kelulusan bertema teman yang diproses dengan sentuhan estetika flash.",
+      "category_id": "silent-reflection",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#808080",
-        "#000000",
-        "#E5E5E5"
+        "#2C3E50",
+        "#7F8C8D",
+        "#BDC3C7"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "bf1495ba64a60b3618fab1b7feab7e03",
       "filename": "file_0000000062cc7206b35ed3f24f32bf37.png"
     },
@@ -2133,6 +2655,12 @@
         "sunset-glow",
         "nostalgic"
       ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Dark"
+      ],
       "sensory_details": {
         "visual_description": "Ruang kelas kuliah kosong disinari berkas cahaya sore yang hangat dari samping.",
         "implied_sound": "Gema debu-debu beterbangan ditiup angin sepoi",
@@ -2143,26 +2671,32 @@
       "filename": "file_000000006ca072099f592ac0cfe14593.png"
     },
     {
-      "title": "Momen Refleksi #89",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana harapan manis.",
+      "title": "Momen Wisuda #89",
+      "description": "Kenangan visual kelulusan bertema objek yang diproses dengan sentuhan estetika sunset.",
       "category_id": "silent-reflection",
-      "tone": "Harapan Manis",
+      "tone": "Nostalgia Hangat",
       "dominant_colors": [
-        "#1A1A1A",
-        "#8C7A6B",
-        "#FFFFFF"
+        "#D35400",
+        "#2C3E50",
+        "#ECF0F1"
       ],
       "aesthetic_tags": [
         "graduation",
-        "student-life",
-        "cinematic"
+        "student",
+        "vibes"
+      ],
+      "content_labels": [
+        "Objek"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+        "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
         "implied_season": "Sore hari yang hangat"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri.",
       "id": "017358c3e904dbd0e190f85cfa00d6d8",
       "filename": "file_0000000084c472069da1085b1585456a.png"
     },
@@ -2181,6 +2715,12 @@
         "finish",
         "new-chapter"
       ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Sunset"
+      ],
       "sensory_details": {
         "visual_description": "Wisudawan membelakangi kamera berjalan di aspal basah menuju matahari terbit yang megah.",
         "implied_sound": "Musik orkestra instrumental yang megah dan tenang",
@@ -2191,26 +2731,32 @@
       "filename": "file_000000009a147206be3d85232e63275c.png"
     },
     {
-      "title": "Momen Refleksi #91",
-      "description": "Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana kesunyian indah.",
-      "category_id": "found-family",
-      "tone": "Kesunyian Indah",
+      "title": "Ke Ufuk Baru",
+      "description": "Seorang lulusan berjalan menembus kehangatan cahaya sore di sepanjang koridor luar kampus, siap menghadapi dunia baru.",
+      "category_id": "into-the-unknown",
+      "tone": "Nostalgia Sore Hari",
       "dominant_colors": [
+        "#D35400",
         "#2C3E50",
-        "#7F8C8D",
-        "#BDC3C7"
+        "#ECEFF1"
       ],
       "aesthetic_tags": [
-        "graduation",
-        "student-life",
-        "cinematic"
+        "candid",
+        "golden hour",
+        "sunset"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
-        "visual_description": "Potret suasana wisuda di sudut kampus.",
-        "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
-        "implied_season": "Sore hari yang hangat"
+        "visual_description": "Lulusan membelakangi kamera berjalan di luar saat sunset keemasan.",
+        "implied_sound": "Petikan gitar akustik yang lambat",
+        "implied_season": "Senja musim kemarau"
       },
-      "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu.",
+      "story_prompt": "Melangkah dengan harapan baru ke arah matahari terbenam.",
       "id": "1cf2fffd8443f66b47281ba79969cb0b",
       "filename": "file_00000000b7d07209a1dec82ed18d184e.png"
     },
@@ -2228,6 +2774,12 @@
         "message",
         "korosensei",
         "candid"
+      ],
+      "content_labels": [
+        "Solo"
+      ],
+      "technique_labels": [
+        "Sunset"
       ],
       "sensory_details": {
         "visual_description": "Lulusan berjalan membelakangi di jalan kampus saat senja, dengan teks surat Koro-sensei bertulis tangan di sudut.",
@@ -2252,6 +2804,12 @@
         "candid-flash",
         "night-walk",
         "friends"
+      ],
+      "content_labels": [
+        "Teman"
+      ],
+      "technique_labels": [
+        "Flash"
       ],
       "sensory_details": {
         "visual_description": "Foto flash buram malam hari memperlihatkan sahabat merangkul pundak satu sama lain sambil tertawa lebar.",

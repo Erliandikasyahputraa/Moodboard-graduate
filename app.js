@@ -5,8 +5,10 @@ let appState = {
     story: "",
     categories: [],
     images: [],
-    activeCategory: "all",
-    searchQuery: ""
+    activeSubject: "all",
+    activeVibe: "all",
+    searchQuery: "",
+    gridSize: "md"
 };
 
 // DOM Elements
@@ -14,10 +16,14 @@ const loaderScreen = document.getElementById("loader-screen");
 const themeEl = document.getElementById("collection-theme");
 const summaryEl = document.getElementById("collection-summary");
 const storyEl = document.getElementById("collection-story");
-const categoriesNav = document.getElementById("categories-nav");
 const masonryGrid = document.getElementById("masonry-grid");
 const emptyState = document.getElementById("empty-state");
 const searchInput = document.getElementById("search-input");
+
+// Filter & Grid Elements
+const subjectFilters = document.getElementById("subject-filters");
+const vibeFilters = document.getElementById("vibe-filters");
+const gridBtnGroup = document.querySelector(".grid-btn-group");
 
 // Drawer Elements
 const detailDrawer = document.getElementById("detail-drawer");
@@ -41,23 +47,23 @@ const IMAGE_BASE_PATH = "pict Moodboard wisuda/";
 // Inisialisasi Galeri
 async function initGallery() {
     try {
-        const response = await fetch("metadata.json");
+        // Gunakan cache buster untuk memotong caching browser
+        const response = await fetch(`metadata.json?v=${Date.now()}`);
         if (!response.ok) {
-            throw new Error("File metadata.json tidak ditemukan. Silakan jalankan `python analyze.py` terlebih dahulu.");
+            throw new Error("File metadata.json tidak ditemukan. Silakan jalankan `python write_final_metadata.py` terlebih dahulu.");
         }
         
         const data = await response.json();
         
         // Simpan ke state
         appState.theme = data.collection_theme || "Koleksi Moodboard";
-        appState.summary = data.collection_summary || "Silakan jalankan analyze.py untuk kurasi.";
+        appState.summary = data.collection_summary || "Silakan jalankan write_final_metadata.py untuk kurasi.";
         appState.story = data.collection_story || "";
         appState.categories = data.categories || [];
         appState.images = data.images || [];
 
         // Render UI
         renderHeader();
-        renderCategoryButtons();
         renderGrid();
         setupEventListeners();
 
@@ -74,7 +80,7 @@ function showErrorState(message) {
     loaderScreen.classList.add("hidden");
     themeEl.textContent = "Galeri Belum Siap";
     summaryEl.innerHTML = `<span style="color: #d9534f; font-weight: 500;">${message}</span>`;
-    storyEl.textContent = "Langkah-langkah:\n1. Buka terminal Anda\n2. Set environment variable: GEMINI_API_KEY\n3. Jalankan perintah: python analyze.py";
+    storyEl.textContent = "Langkah-langkah:\n1. Buka terminal Anda\n2. Jalankan perintah: python write_final_metadata.py";
     document.querySelector(".story-details").open = true;
     masonryGrid.innerHTML = "";
     emptyState.classList.remove("hidden");
@@ -88,31 +94,29 @@ function renderHeader() {
     storyEl.textContent = appState.story;
 }
 
-// Render Tombol Kategori
-function renderCategoryButtons() {
-    // Bersihkan kecuali tombol "Semua"
-    categoriesNav.innerHTML = `<button class="cat-btn active" data-category="all">00. Semua Koleksi</button>`;
-    
-    appState.categories.forEach((cat, index) => {
-        const btn = document.createElement("button");
-        btn.className = "cat-btn";
-        btn.setAttribute("data-category", cat.id);
-        
-        // Format nomor kategori editorial (01, 02, dst)
-        const num = String(index + 1).padStart(2, '0');
-        btn.textContent = `${num}. ${cat.name}`;
-        categoriesNav.appendChild(btn);
-    });
-}
-
 // Render Grid Masonry
 function renderGrid() {
     masonryGrid.innerHTML = "";
     
-    // Filter gambar berdasarkan kategori dan pencarian
+    // Terapkan kelas ukuran grid ke elemen masonry
+    masonryGrid.className = "masonry-grid";
+    if (appState.gridSize === "sm") {
+        masonryGrid.classList.add("grid-sm");
+    } else if (appState.gridSize === "lg") {
+        masonryGrid.classList.add("grid-lg");
+    }
+
+    // Filter gambar berdasarkan Subject, Vibe, dan Search Query
     const filteredImages = appState.images.filter(img => {
-        const matchesCategory = appState.activeCategory === "all" || img.category_id === appState.activeCategory;
+        // 1. Filter Subjek
+        const matchesSubject = appState.activeSubject === "all" || 
+            (img.content_labels && img.content_labels.includes(appState.activeSubject));
+            
+        // 2. Filter Vibe/Teknik
+        const matchesVibe = appState.activeVibe === "all" || 
+            (img.technique_labels && img.technique_labels.includes(appState.activeVibe));
         
+        // 3. Pencarian Teks
         const searchLower = appState.searchQuery.toLowerCase();
         const matchesSearch = !appState.searchQuery || 
             (img.title && img.title.toLowerCase().includes(searchLower)) ||
@@ -120,7 +124,7 @@ function renderGrid() {
             (img.tone && img.tone.toLowerCase().includes(searchLower)) ||
             (img.aesthetic_tags && img.aesthetic_tags.some(tag => tag.toLowerCase().includes(searchLower)));
             
-        return matchesCategory && matchesSearch;
+        return matchesSubject && matchesVibe && matchesSearch;
     });
 
     if (filteredImages.length === 0) {
@@ -220,20 +224,43 @@ function closeDrawer() {
 
 // Event Listeners
 function setupEventListeners() {
-    // Navigasi Kategori
-    categoriesNav.addEventListener("click", (e) => {
-        const btn = e.target.closest(".cat-btn");
+    // 1. Filter Subjek
+    subjectFilters.addEventListener("click", (e) => {
+        const btn = e.target.closest(".filter-btn");
         if (!btn) return;
         
-        // Ganti kelas aktif
-        document.querySelectorAll(".cat-btn").forEach(b => b.classList.remove("active"));
+        subjectFilters.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
         btn.classList.add("active");
         
-        appState.activeCategory = btn.getAttribute("data-category");
+        appState.activeSubject = btn.getAttribute("data-value");
+        renderGrid();
+    });
+
+    // 2. Filter Vibe/Teknik
+    vibeFilters.addEventListener("click", (e) => {
+        const btn = e.target.closest(".filter-btn");
+        if (!btn) return;
+        
+        vibeFilters.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        
+        appState.activeVibe = btn.getAttribute("data-value");
+        renderGrid();
+    });
+
+    // 3. Grid Size Controls
+    gridBtnGroup.addEventListener("click", (e) => {
+        const btn = e.target.closest(".grid-btn");
+        if (!btn) return;
+        
+        gridBtnGroup.querySelectorAll(".grid-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        
+        appState.gridSize = btn.getAttribute("data-size");
         renderGrid();
     });
     
-    // Input Pencarian (Debounce Sederhana)
+    // 4. Input Pencarian (Debounce Sederhana)
     let searchTimeout;
     searchInput.addEventListener("input", (e) => {
         clearTimeout(searchTimeout);
@@ -243,11 +270,11 @@ function setupEventListeners() {
         }, 250);
     });
     
-    // Tombol Tutup Drawer
+    // 5. Tombol Tutup Drawer
     closeDrawerBtn.addEventListener("click", closeDrawer);
     drawerOverlay.addEventListener("click", closeDrawer);
     
-    // Keyboard Esc untuk menutup Drawer
+    // 6. Keyboard Esc untuk menutup Drawer
     window.addEventListener("keydown", (e) => {
         if (e.key === "Escape" && detailDrawer.classList.contains("open")) {
             closeDrawer();

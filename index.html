@@ -36,17 +36,49 @@
 
         <!-- Bar Navigasi & Pencarian (Sticky) -->
         <div class="controls-bar">
-            <!-- Search Input -->
-            <div class="search-box">
-                <input type="text" id="search-input" placeholder="Cari memori, tag, suasana..." aria-label="Cari gambar">
-                <span class="search-icon">🔍</span>
+            <!-- Search & Grid Size -->
+            <div class="controls-top-row">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Cari memori, tag, suasana..." aria-label="Cari gambar">
+                    <span class="search-icon">🔍</span>
+                </div>
+                
+                <div class="grid-size-controls">
+                    <span class="control-label">Tampilan:</span>
+                    <div class="grid-btn-group">
+                        <button class="grid-btn" data-size="sm" title="Grid Kecil">Kecil</button>
+                        <button class="grid-btn active" data-size="md" title="Grid Sedang">Sedang</button>
+                        <button class="grid-btn" data-size="lg" title="Grid Besar">Besar</button>
+                    </div>
+                </div>
             </div>
 
-            <!-- Kategori Navigation (Editorial style) -->
-            <nav class="categories-nav" id="categories-nav">
-                <button class="cat-btn active" data-category="all">00. Semua Koleksi</button>
-                <!-- Kategori dinamis akan di-render di sini -->
-            </nav>
+            <!-- Double Filter Group -->
+            <div class="filters-container">
+                <div class="filter-group">
+                    <span class="filter-label">Subjek Foto:</span>
+                    <nav class="categories-nav" id="subject-filters">
+                        <button class="filter-btn active" data-filter-type="subject" data-value="all">Semua</button>
+                        <button class="filter-btn" data-filter-type="subject" data-value="Solo">Sendiri (Solo)</button>
+                        <button class="filter-btn" data-filter-type="subject" data-value="Keluarga">Keluarga</button>
+                        <button class="filter-btn" data-filter-type="subject" data-value="Teman">Teman</button>
+                        <button class="filter-btn" data-filter-type="subject" data-value="Pasangan">Pasangan</button>
+                        <button class="filter-btn" data-filter-type="subject" data-value="Objek">Detail Objek</button>
+                    </nav>
+                </div>
+
+                <div class="filter-group">
+                    <span class="filter-label">Vibe / Teknik:</span>
+                    <nav class="categories-nav" id="vibe-filters">
+                        <button class="filter-btn active" data-filter-type="vibe" data-value="all">Semua</button>
+                        <button class="filter-btn" data-filter-type="vibe" data-value="Sunset">Sunset (Golden Hour)</button>
+                        <button class="filter-btn" data-filter-type="vibe" data-value="Blur">Blur (Motion/Slow)</button>
+                        <button class="filter-btn" data-filter-type="vibe" data-value="Dark">Dark & Moody</button>
+                        <button class="filter-btn" data-filter-type="vibe" data-value="Flash">Flash Photography</button>
+                        <button class="filter-btn" data-filter-type="vibe" data-value="Film">Film / Analog Edit</button>
+                    </nav>
+                </div>
+            </div>
         </div>
 
         <!-- Masonry Grid Galeri -->

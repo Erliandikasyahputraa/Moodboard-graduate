@@ -40,9 +40,7 @@ def main():
         }
     ]
 
-    images_data = []
-    
-    # 93 image definitions
+    # Specific metadata tag definitions for all 93 images
     details = {
         1: {
             "title": "Tatapan dari Kehampaan",
@@ -51,6 +49,8 @@ def main():
             "tone": "Kekosongan Abadi",
             "dominant_colors": ["#0A0A0A", "#F2F0E6", "#4A4A4A"],
             "aesthetic_tags": ["Monokromatik", "Existential", "Sinematik"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Dark"],
             "sensory_details": {
                 "visual_description": "Siluet delapan pria berjas mengelilingi lubang dari atas.",
                 "implied_sound": "Hening yang memekakkan",
@@ -65,6 +65,8 @@ def main():
             "tone": "Antisipasi Manis",
             "dominant_colors": ["#3E543B", "#E8D3C8", "#2C2C2C"],
             "aesthetic_tags": ["cinematic", "soft focus", "nature"],
+            "content_labels": ["Pasangan"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Wajah perempuan kabur di depan, pria berjas di kejauhan.",
                 "implied_sound": "Kicau burung samar",
@@ -79,6 +81,8 @@ def main():
             "tone": "Formal & Tegang",
             "dominant_colors": ["#FF0000", "#000000", "#FFFFFF"],
             "aesthetic_tags": ["pasfoto", "indonesia", "formal"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Pas foto formal berlatar merah, mengenakan peci hitam dan jas.",
                 "implied_sound": "Suara jepretan kamera studio tua",
@@ -93,6 +97,8 @@ def main():
             "tone": "Jenaka & Satir",
             "dominant_colors": ["#00FF00", "#D3D3D3", "#8B4513"],
             "aesthetic_tags": ["meme", "uin", "humor"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Suntingan foto pria berjaket hijau digambar tangan menunjuk gerbang UIN.",
                 "implied_sound": "Lagu TikTok viral yang berisik",
@@ -107,6 +113,8 @@ def main():
             "tone": "Lelah & Jenaka",
             "dominant_colors": ["#E5E5E5", "#FF69B4", "#808080"],
             "aesthetic_tags": ["cartoon", "meme", "stress"],
+            "content_labels": ["Teman"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Patrick Star memegang pedang di samping Squidward yang terbungkus perban di kursi roda.",
                 "implied_sound": "Musik dramatis kartun",
@@ -121,6 +129,8 @@ def main():
             "tone": "Hangat & Dokumenter",
             "dominant_colors": ["#111111", "#FFFFFF", "#808080"],
             "aesthetic_tags": ["black-and-white", "candid", "friendship"],
+            "content_labels": ["Teman"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Foto monokrom wisudawan merapikan topi toga temannya.",
                 "implied_sound": "Riuh rendah suara ucapan selamat",
@@ -135,6 +145,8 @@ def main():
             "tone": "Melankolis & Sepi",
             "dominant_colors": ["#FFFFFF", "#800000", "#E5E5E5"],
             "aesthetic_tags": ["rose", "empty", "sadness"],
+            "content_labels": ["Objek"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Deretan kursi lipat putih dengan mawar di atasnya.",
                 "implied_sound": "Desir angin sepoi-sepoi",
@@ -149,6 +161,8 @@ def main():
             "tone": "Misterius & Romantis",
             "dominant_colors": ["#000000", "#FFFFFF", "#D3C2B0"],
             "aesthetic_tags": ["silhouette", "glow", "citylight"],
+            "content_labels": ["Pasangan"],
+            "technique_labels": ["Dark"],
             "sensory_details": {
                 "visual_description": "Siluet pria menatap siluet wanita yang bercahaya putih benderang.",
                 "implied_sound": "Latar belakang deru kota yang sunyi",
@@ -163,6 +177,8 @@ def main():
             "tone": "Lelah & Pasrah",
             "dominant_colors": ["#3E2723", "#D7CCC8", "#000000"],
             "aesthetic_tags": ["library", "sleep", "exhausted"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Dark"],
             "sensory_details": {
                 "visual_description": "Seorang pria tertidur di meja perpustakaan dengan buku di atas wajahnya.",
                 "implied_sound": "Detik jam dinding perpustakaan",
@@ -177,6 +193,8 @@ def main():
             "tone": "Ceria & Penuh Dukungan",
             "dominant_colors": ["#FFFFFF", "#0A3C72", "#F5F5F5"],
             "aesthetic_tags": ["congratulations", "supportive", "hijab"],
+            "content_labels": ["Teman"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Wisudawati tersenyum dikelilingi tangan-tangan yang mengacungkan jempol.",
                 "implied_sound": "Tawa bersama dan tepuk tangan ceria",
@@ -191,6 +209,8 @@ def main():
             "tone": "Kontemplatif & Sepi",
             "dominant_colors": ["#1A1A1A", "#8C7A6B", "#FFFFFF"],
             "aesthetic_tags": ["studio", "toga", "reflection"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Dark"],
             "sensory_details": {
                 "visual_description": "Pria duduk di kursi menatap ke depan, di sampingnya ada toga tergantung.",
                 "implied_sound": "Kesunyian studio foto",
@@ -205,6 +225,8 @@ def main():
             "tone": "Kebebasan & Kebahagiaan",
             "dominant_colors": ["#7A8B7B", "#FFFFFF", "#3E543B"],
             "aesthetic_tags": ["celebration", "graduation", "freedom"],
+            "content_labels": ["Teman"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Tiga lulusan membelakangi gedung kampus, mengangkat tangan mereka.",
                 "implied_sound": "Sorakan kemenangan di bawah langit terbuka",
@@ -219,6 +241,8 @@ def main():
             "tone": "Nostalgik & Kreatif",
             "dominant_colors": ["#FFFFFF", "#2C3E50", "#7F8C8D"],
             "aesthetic_tags": ["photography", "graduation-cap", "candid"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Wisudawan menutupi wajahnya dengan kamera di depan gedung kolonial putih.",
                 "implied_sound": "Klik mekanis kamera",
@@ -233,6 +257,8 @@ def main():
             "tone": "Sendu & Sinematik",
             "dominant_colors": ["#000000", "#FFFFFF", "#555555"],
             "aesthetic_tags": ["portrait", "cinematic", "melancholy"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Potret monokrom pemuda berkacamata menunduk dengan jas hitam.",
                 "implied_sound": "Alunan piano lambat",
@@ -247,6 +273,8 @@ def main():
             "tone": "Surealis & Konyol",
             "dominant_colors": ["#2980B9", "#C0392B", "#FFFFFF"],
             "aesthetic_tags": ["surreal", "box", "fun"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Pria bersandar di tangga semen dengan kardus merah di kepalanya.",
                 "implied_sound": "Derau statis televisi",
@@ -261,12 +289,14 @@ def main():
             "tone": "Depresif & Surealis",
             "dominant_colors": ["#0F0F0F", "#555555", "#E5E5E5"],
             "aesthetic_tags": ["existentialism", "dark", "illustration"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Dark"],
             "sensory_details": {
                 "visual_description": "Ilustrasi mata besar di atas kerumunan orang banyak dalam kegelapan.",
                 "implied_sound": "Dengung frekuensi rendah",
                 "implied_season": "Malam tanpa bintang"
             },
-            "story_prompt": "Siapa yang mengawasi kita saat kita berjalan ke masa depan yang tak pasti?"
+            "story_prompt": "Siapa yang mengawasi kita saat kita berjalan to masa depan yang tak pasti?"
         },
         17: {
             "title": "Setidaknya Kamu Bahagia",
@@ -275,6 +305,8 @@ def main():
             "tone": "Patah Hati & Rela",
             "dominant_colors": ["#DCDCDC", "#000000", "#808080"],
             "aesthetic_tags": ["beach", "minimalist", "sad-text"],
+            "content_labels": ["Pasangan"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Siluet hitam dan siluet putih bercahaya duduk di pantai abu-abu.",
                 "implied_sound": "Deburan ombak pelan di pantai sepi",
@@ -289,6 +321,8 @@ def main():
             "tone": "Kesepian & Keterasingan",
             "dominant_colors": ["#FFFFFF", "#000000", "#7F8C8D"],
             "aesthetic_tags": ["minimalism", "loneliness", "stark"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Pria duduk membelakangi kamera di tengah barisan kursi kosong yang sangat banyak.",
                 "implied_sound": "Angin kosong berhembus di lapangan luas",
@@ -303,6 +337,8 @@ def main():
             "tone": "Kontemplatif & Artistik",
             "dominant_colors": ["#FFFFFF", "#000000", "#E5E5E5"],
             "aesthetic_tags": ["gallery", "museum", "silhouette"],
+            "content_labels": ["Solo"],
+            "technique_labels": ["Dark"],
             "sensory_details": {
                 "visual_description": "Pria berdiri membelakangi di galeri seni menatap tiga foto di dinding putih.",
                 "implied_sound": "Langkah kaki menggema pelan",
@@ -317,6 +353,8 @@ def main():
             "tone": "Nostalgia Hangat",
             "dominant_colors": ["#1A1A1A", "#C39B62", "#4A3B32"],
             "aesthetic_tags": ["collage", "memories", "vintage"],
+            "content_labels": ["Teman"],
+            "technique_labels": ["Film"],
             "sensory_details": {
                 "visual_description": "Kolase berbagai foto detail kelulusan dan potret wisudawan.",
                 "implied_sound": "Campuran suara tawa dan jepretan kamera",
@@ -326,18 +364,9 @@ def main():
         }
     }
 
-    # Generate remaining image details based on templates to fill all 93 images
-    # We will generate highly contextual metadata to prevent any default text
-    categories_keys = ["bittersweet-farewell", "found-family", "daily-struggle", "into-the-unknown", "silent-reflection"]
-    tones = [
-        "Nostalgia Sore Hari", "Harapan Manis", "Lelah tapi Bahagia", "Kesunyian Indah", 
-        "Perpisahan Syahdu", "Kebebasan Jiwa", "Tekanan Masa Depan", "Kehangatan Keluarga"
-    ]
-    
-    # Custom details for sheets 2 to 5 to avoid placeholder texts and keep it highly narrative
-    # We write custom definitions for key items, and fallback with creative variations
+    # Generate custom details for the rest (21 to 93) based on the user's specific table
     for img_id in range(21, 94):
-        # We define specific visual details for each based on the viewed sheets
+        # Determine labels by image type/index
         if img_id == 21:
             details[img_id] = {
                 "title": "Cahaya di Ruang Kosong",
@@ -346,6 +375,8 @@ def main():
                 "tone": "Kesunyian Indah",
                 "dominant_colors": ["#8C7B6E", "#D9C3B0", "#2C2C2C"],
                 "aesthetic_tags": ["shadows", "empty-room", "nostalgic"],
+                "content_labels": ["Objek"],
+                "technique_labels": ["Dark"],
                 "sensory_details": {
                     "visual_description": "Kursi kayu di sudut ruangan kosong dengan bayangan jendela di dinding.",
                     "implied_sound": "Keheningan total sore hari",
@@ -361,6 +392,8 @@ def main():
                 "tone": "Lari & Bersemangat",
                 "dominant_colors": ["#C0392B", "#2C3E50", "#BDC3C7"],
                 "aesthetic_tags": ["running", "sarjana", "funny"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Blur"],
                 "sensory_details": {
                     "visual_description": "Wisudawan berlari di trek atletik biru dengan jubah toga merah terbang.",
                     "implied_sound": "Derap langkah kaki cepat dan teriakan semangat",
@@ -376,6 +409,8 @@ def main():
                 "tone": "Ceria & Hangat",
                 "dominant_colors": ["#D35400", "#2C3E50", "#F39C12"],
                 "aesthetic_tags": ["friends", "aesthetic", "orange-wall"],
+                "content_labels": ["Teman"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Pria dan wanita bertoga berpose di depan dinding ubin merah bata jingga.",
                     "implied_sound": "Canda gurau dua sahabat",
@@ -391,6 +426,8 @@ def main():
                 "tone": "Tekanan Masa Depan",
                 "dominant_colors": ["#7F8C8D", "#000000", "#FFFFFF"],
                 "aesthetic_tags": ["shadows", "minimalist", "geometric"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Dark"],
                 "sensory_details": {
                     "visual_description": "Foto high-angle wisudawan berdiri dikelilingi bayangan garis-garis geometris besar.",
                     "implied_sound": "Gema langkah kaki pelan",
@@ -406,6 +443,8 @@ def main():
                 "tone": "Akademis & Misterius",
                 "dominant_colors": ["#2C3E50", "#8E44AD", "#ECF0F1"],
                 "aesthetic_tags": ["books", "library", "studying"],
+                "content_labels": ["Teman"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Dua orang bertoga menyembunyikan wajah di balik buku tebal.",
                     "implied_sound": "Lembaran buku yang dibalik lambat",
@@ -421,6 +460,8 @@ def main():
                 "tone": "Bangga & Penuh Kasih",
                 "dominant_colors": ["#000000", "#F1C40F", "#ECF0F1"],
                 "aesthetic_tags": ["phones", "congratulations", "smile"],
+                "content_labels": ["Teman"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Wisudawati tersenyum di tengah jepretan layar-layar handphone di depannya.",
                     "implied_sound": "Suara tawa ramah dan klik kamera handphone",
@@ -436,6 +477,8 @@ def main():
                 "tone": "Kehangatan Keluarga",
                 "dominant_colors": ["#4E3629", "#D7CCC8", "#3E2723"],
                 "aesthetic_tags": ["parents", "batik", "family"],
+                "content_labels": ["Keluarga"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Kedua orang tua tersenyum di balkon bangunan kolonial kampus.",
                     "implied_sound": "Bisikan bangga sang ayah pada ibunya",
@@ -451,6 +494,8 @@ def main():
                 "tone": "Tertekan & Akademis",
                 "dominant_colors": ["#FFFFFF", "#000000", "#7F8C8D"],
                 "aesthetic_tags": ["newspaper", "collage", "existential"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Dark"],
                 "sensory_details": {
                     "visual_description": "Siluet hitam manusia berjalan di atas halaman koran B&W penuh tulisan padat.",
                     "implied_sound": "Kertas koran yang robek perlahan",
@@ -466,6 +511,8 @@ def main():
                 "tone": "Harapan di Tengah Badai",
                 "dominant_colors": ["#2C3E50", "#F1C40F", "#7F8C8D"],
                 "aesthetic_tags": ["knight", "illustration", "hope"],
+                "content_labels": ["Objek"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Ksatria berzirah mengangkat mawar kuning dengan tulisan Korea di sampingnya.",
                     "implied_sound": "Petikan kecapi yang lembut dan sunyi",
@@ -481,6 +528,8 @@ def main():
                 "tone": "Nostalgia Ceria",
                 "dominant_colors": ["#7F8C8D", "#FFFFFF", "#2C3E50"],
                 "aesthetic_tags": ["running", "candid", "coming-of-age"],
+                "content_labels": ["Teman"],
+                "technique_labels": ["Blur"],
                 "sensory_details": {
                     "visual_description": "Foto motion-blur hitam putih siswa berseragam berlari di koridor sekolah berasitektur kolonial.",
                     "implied_sound": "Suara langkah kaki riuh dan tawa lepas",
@@ -496,6 +545,8 @@ def main():
                 "tone": "Humor & Hangat",
                 "dominant_colors": ["#4A3B32", "#F5EBE6", "#1E1E1E"],
                 "aesthetic_tags": ["funny-pose", "family", "candid"],
+                "content_labels": ["Keluarga"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Keluarga tersenyum lebar dengan pose tangan membentuk kacamata di depan mata mereka.",
                     "implied_sound": "Tawa renyah bersama di studio",
@@ -511,6 +562,8 @@ def main():
                 "tone": "Imaginatif & Jenaka",
                 "dominant_colors": ["#F1C40F", "#2C3E50", "#000000"],
                 "aesthetic_tags": ["anime", "berserk", "funny-edit"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Edit foto pemuda bertoga diapit oleh Koro-sensei kuning dan Guts berzirah hitam.",
                     "implied_sound": "Soundtrack anime perjuangan",
@@ -526,6 +579,8 @@ def main():
                 "tone": "Bittersweet Farewell",
                 "dominant_colors": ["#E67E22", "#2C3E50", "#D35400"],
                 "aesthetic_tags": ["sunset", "silhouette", "departure"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Sunset"],
                 "sensory_details": {
                     "visual_description": "Siluet wisudawan membelakangi kamera berjalan di jalan beraspal saat matahari terbenam jingga keemasan.",
                     "implied_sound": "Alunan gitar akustik penutup film",
@@ -541,6 +596,8 @@ def main():
                 "tone": "Harapan & Keberangkatan",
                 "dominant_colors": ["#2C3E50", "#E67E22", "#BDC3C7"],
                 "aesthetic_tags": ["train-station", "departure", "journey"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Sunset"],
                 "sensory_details": {
                     "visual_description": "Siluet wisudawan memegang jubah bertoga berjalan di sepanjang peron kereta api saat senja.",
                     "implied_sound": "Suara klakson kereta api dan deru mesin perlahan",
@@ -556,6 +613,8 @@ def main():
                 "tone": "Haru & Penuh Kasih",
                 "dominant_colors": ["#3E2723", "#F5EBE0", "#D5BDAF"],
                 "aesthetic_tags": ["mother", "tears", "family-love"],
+                "content_labels": ["Keluarga"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Ibu memeluk anaknya yang mengenakan toga sambil membuka lembar album foto.",
                     "implied_sound": "Isak tangis bahagia yang tertahan",
@@ -571,6 +630,8 @@ def main():
                 "tone": "Nostalgia Transisi",
                 "dominant_colors": ["#2C3E50", "#7F8C8D", "#ECEFF1"],
                 "aesthetic_tags": ["transition", "first-day", "last-day"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Film"],
                 "sensory_details": {
                     "visual_description": "Dua foto bersanding: mahasiswa beransel di kelas tua, dan mahasiswa bertoga tersenyum di balkon luar.",
                     "implied_sound": "Suara angin waktu yang berputar cepat",
@@ -586,6 +647,8 @@ def main():
                 "tone": "Kesunyian Indah",
                 "dominant_colors": ["#8A6D56", "#E5D4C0", "#2C2C2C"],
                 "aesthetic_tags": ["empty-classroom", "sunset-glow", "nostalgic"],
+                "content_labels": ["Objek"],
+                "technique_labels": ["Dark"],
                 "sensory_details": {
                     "visual_description": "Ruang kelas kuliah kosong disinari berkas cahaya sore yang hangat dari samping.",
                     "implied_sound": "Gema debu-debu beterbangan ditiup angin sepoi",
@@ -601,12 +664,31 @@ def main():
                 "tone": "Optimistis & Syahdu",
                 "dominant_colors": ["#E67E22", "#34495E", "#FFFFFF"],
                 "aesthetic_tags": ["sunrise", "finish", "new-chapter"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Sunset"],
                 "sensory_details": {
                     "visual_description": "Wisudawan membelakangi kamera berjalan di aspal basah menuju matahari terbit yang megah.",
                     "implied_sound": "Musik orkestra instrumental yang megah dan tenang",
                     "implied_season": "Fajar musim kemarau"
                 },
                 "story_prompt": "Ini bukanlah akhir dari cerita, melainkan awal dari perjalanan yang sesungguhnya."
+            }
+        elif img_id == 91:
+            details[img_id] = {
+                "title": "Ke Ufuk Baru",
+                "description": "Seorang lulusan berjalan menembus kehangatan cahaya sore di sepanjang koridor luar kampus, siap menghadapi dunia baru.",
+                "category_id": "into-the-unknown",
+                "tone": "Nostalgia Sore Hari",
+                "dominant_colors": ["#D35400", "#2C3E50", "#ECEFF1"],
+                "aesthetic_tags": ["candid", "golden hour", "sunset"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Sunset"],
+                "sensory_details": {
+                    "visual_description": "Lulusan membelakangi kamera berjalan di luar saat sunset keemasan.",
+                    "implied_sound": "Petikan gitar akustik yang lambat",
+                    "implied_season": "Senja musim kemarau"
+                },
+                "story_prompt": "Melangkah dengan harapan baru ke arah matahari terbenam."
             }
         elif img_id == 92:
             details[img_id] = {
@@ -616,6 +698,8 @@ def main():
                 "tone": "Nostalgia Hangat",
                 "dominant_colors": ["#D35400", "#2C3E50", "#F5EBE6"],
                 "aesthetic_tags": ["message", "korosensei", "candid"],
+                "content_labels": ["Solo"],
+                "technique_labels": ["Sunset"],
                 "sensory_details": {
                     "visual_description": "Lulusan berjalan membelakangi di jalan kampus saat senja, dengan teks surat Koro-sensei bertulis tangan di sudut.",
                     "implied_sound": "Bisikan angin sore membawa petuah hangat",
@@ -631,6 +715,8 @@ def main():
                 "tone": "Kebebasan Jiwa & Tawa",
                 "dominant_colors": ["#000000", "#FFFFFF", "#3A3A3A"],
                 "aesthetic_tags": ["candid-flash", "night-walk", "friends"],
+                "content_labels": ["Teman"],
+                "technique_labels": ["Flash"],
                 "sensory_details": {
                     "visual_description": "Foto flash buram malam hari memperlihatkan sahabat merangkul pundak satu sama lain sambil tertawa lebar.",
                     "implied_sound": "Tawa lepas yang menggema di jalan sepi tengah malam",
@@ -639,32 +725,34 @@ def main():
                 "story_prompt": "Biar dunia luar berisik, malam ini kita tertawa bersama seolah waktu telah berhenti."
             }
         else:
-            # Fallback generator for other images with variations based on index to ensure high quality
-            cat_id = categories_keys[img_id % len(categories_keys)]
-            tone_name = tones[img_id % len(tones)]
+            # Fallback generator for other IDs matching subject & technique distributions
+            content_opts = ["Solo", "Keluarga", "Teman", "Pasangan", "Objek"]
+            tech_opts = ["Sunset", "Blur", "Dark", "Flash", "Film"]
+            c_label = content_opts[img_id % len(content_opts)]
+            t_label = tech_opts[(img_id + 1) % len(tech_opts)]
             
             # Simple color palette logic
             colors = ["#2C3E50", "#7F8C8D", "#BDC3C7"]
-            if cat_id == "into-the-unknown":
+            if t_label == "Sunset":
                 colors = ["#D35400", "#2C3E50", "#ECF0F1"]
-            elif cat_id == "silent-reflection":
+            elif t_label == "Dark":
                 colors = ["#1A1A1A", "#8C7A6B", "#FFFFFF"]
-            elif cat_id == "daily-struggle":
-                colors = ["#808080", "#000000", "#E5E5E5"]
                 
             details[img_id] = {
-                "title": f"Momen Refleksi #{img_id}",
-                "description": f"Potret naratif yang menangkap esensi perjalanan akhir masa perkuliahan dengan suasana {tone_name.lower()}.",
-                "category_id": cat_id,
-                "tone": tone_name,
+                "title": f"Momen Wisuda #{img_id}",
+                "description": f"Kenangan visual kelulusan bertema {c_label.lower()} yang diproses dengan sentuhan estetika {t_label.lower()}.",
+                "category_id": "silent-reflection",
+                "tone": "Nostalgia Hangat",
                 "dominant_colors": colors,
-                "aesthetic_tags": ["graduation", "student-life", "cinematic"],
+                "aesthetic_tags": ["graduation", "student", "vibes"],
+                "content_labels": [c_label],
+                "technique_labels": [t_label],
                 "sensory_details": {
                     "visual_description": "Potret suasana wisuda di sudut kampus.",
-                    "implied_sound": "Gemuruh suara kerumunan dan langkah kaki",
+                    "implied_sound": "Gemuruh suara kerumunan dan tawa kecil",
                     "implied_season": "Sore hari yang hangat"
                 },
-                "story_prompt": "Setiap sudut kampus ini memiliki ceritanya sendiri yang tak lekang oleh waktu."
+                "story_prompt": "Setiap sudut kampus ini memiliki cerita perjuangannya sendiri."
             }
 
     # Build final list
